@@ -1,0 +1,28 @@
+title,topic_by_teacher
+Approximate Networks on Chip.,
+Critical Packet Prioritisation by Slack-Aware Re-Routing in On-Chip Networks.,flow control
+AxNoC - Low-power Approximate Network-on-Chips using Critical-Path Isolation.,"power consumption, Approximate, noc for real-time (critical) systems"
+Securing NoCs Against Timing Attacks with Non-Interference Based Adaptive Routing.,"adaptive, performance, countermeasure, routing, security-->countermeasure, security"
+Exploration of Memory and Cluster Modes in Directory-Based Many-Core CMPs.,"cache, last level cache, NoC for memory, noc for memory, directory"
+Abetting Planned Obsolescence by Aging 3D Networks-on-Chip.,"security-->Planned Obsolescence, 3D, aging, planned obsolescence, reliabilty, security, 3d, noc for real-time (critical) systems"
+Keynote Talk - Many-Core SoC in Nanoscale CMOS - Challenges & Opportunities.,
+Co-Design and Abstraction of a Network-on-Chip Using Deterministic Network Calculus.,
+FreewayNoC - A DDR NoC with Pipeline Bypassing.,router design
+A Low-Overhead Multicast Bufferless Router with Reconfigurable Banyan Network.,"Multicast, reconfigurable, multicast, router design, bufferless"
+Reconfigurable Network-on-Chip for 3D Neural Network Accelerators.,"3D, topology, Reconfigurable， NoC for architecture-->machine learning, noc for architecture, machine learning, 3d, reconfigurable"
+On-Chip Wireless Channel Propagation - Impact of Antenna Directionality and Placement on Channel Performance.,"Wireless, performance, link, wireless"
+Accurate Congestion Control for RDMA Transfers.,flow control
+NoC-Based Support of Heterogeneous Cache-Coherence Models for Accelerators.,"cache, heterogeneous, last level cache, NoC for memory-->last level cache, noc for memory"
+Challenges and Opportunities for Edge Cloud Architectures.,
+Approximate Arithmetic Circuits and Their Applications.,
+Architecting a Secure Wireless Network-on-Chip.,"security-->countermeasure, Wireless, DoS, spoofing, eaves-dropping"
+Accurate Channel Models for Realistic Design Space Exploration of Future Wireless NoCs.,"Wireless, Design Space Exploration"
+Keynote Talk - NoCs - A Short History of Success and a Long Future.,
+Brownian Bubble Router - Enabling Deadlock Freedom via Guaranteed Forward Progress.,"router design, deadlock"
+Securing Photonic NoC Architectures from Hardware Trojans.,"optical, security-->countermeasure, Hardware Trojans"
+DAPPER - Data Aware Approximate NoC for GPGPU Architectures.,"noc for gpu, power consumption, approximate noc, Approximate，NoC for GPU, approximate"
+A Diversity Scheme to Enhance the Reliability of Wireless NoC in Multipath Channel Environment.,"reliability, Reliability, Wireless, link"
+Channel Characterization for Chip-scale Wireless Communications within Computing Packages.,Wireless
+Testing WiNoC-Enabled Multicore Chips with BIST for Wireless Interconnects.,"Wireless, testing and diagnosis"
+Exploiting Dark Cores for Performance Optimization via Patterning for Many-core Chips in the Dark Silicon Era.,
+Towards Energy-Efficient High-Throughput Photonic NoCs for 2.5D Integrated Systems - A Case for AWGRs.,optical，NoC for SiP

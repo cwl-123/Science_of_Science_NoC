@@ -1,0 +1,42 @@
+title,topic_by_teacher
+Keynote 3 (Banquet Talk) Digital space.,
+Analytical modeling and evaluation of On-Chip Interconnects using Network Calculus.,delay model
+Flow-aware allocation for on-chip networks.,"Virtual Channel, flow control"
+"The design of a latency constrained, power optimized NoC for a 4G SoC.",NoC for different applications-->telecommunication 
+NoCs - It is about the memory and the programming model.,
+Networks-on-chip in emerging interconnect paradigms - Advantages and challenges.,"optical, 3d, 3D, survey, wireless"
+NoC's at the center of chip architecture - Urgent needs (today) and what they must become (future).,
+A Communication and configuration controller for NoC based reconfigurable data flow architecture.,"design space exploration, mapping-->static"
+CTC - An end-to-end flow control protocol for multi-core systems-on-chip.,"flow control-->credit, handshake"
+Connection-centric network for spiking neural networks.,NoC for different applications-->machine learning
+Configurable emulated shared memory architecture for general purpose MP-SOCs and NOC regions.,NoC for memory
+Performance Evaluation of NoC Architectures for Parallel Workloads.,Performance Evaluation
+Lookahead-based adaptive voltage scheme for energy-efficient on-chip interconnect links.,"link, adaptive, dvfs, power consumption, DVFS"
+Power reduction through physical placement of asynchronous routers.,"power consumption, placement and floorplanning"
+Energy efficient application mapping to NoC processing elements operating at multiple voltage levels.,"DVFS, runtime, mapping-->runtime, ILP, power consumption, mapping, ilp, dvfs"
+Increasing NoC power estimation accuracy through a rate-based model.,power modeling
+Analysis of photonic networks for a chip multiprocessor using scientific applications.,"optical, power consumption, performance evaluation"
+Diagnosis of interconnect shorts in mesh NoCs.,"link, testing and diagnosis, testing and Diagnosis, mesh"
+HiRA - A methodology for deadlock free routing in hierarchical networks on chip.,"hierarchical, routing, deadlock avoidance, deadlock, routing， hierarchical， deadlock avoidance"
+Silicon-photonic clos networks for global on-chip communication.,"optical, clos"
+A Modeling and exploration framework for interconnect network design in the nanometer era.,modeling， design space exploration
+Dynamic packet fragmentation for increased virtual channel utilization in on-chip routers.,router design，virtual channel
+On-Chip photonic interconnects for scalable multi-core architectures.,optical
+Fault-tolerant architecture and deflection routing for degradable NoC switches.,"Fault tolerance, deflection, routing, bufferless, architecture"
+Contention-free on-chip routing of optical packets.,"optical, routing, flow control"
+Packet-level static timing analysis for NoCs.,delay model
+Exploring concentration and channel slicing in on-chip network router.,"concentration， router design, link, router design"
+BiNoC - A bidirectional NoC architecture with dynamic self-reconfigurable channel.,"link, runtime, topology, reconfigurable, architecture"
+Comparing tightly and loosely coupled mesochronous synchronizers in a NoC switch architecture.,"synchronizer, architecture"
+Best of both worlds - A bus enhanced NoC (BENoC).,"multicast, bus"
+Using adaptive routing to compensate for performance heterogeneity.,"adaptive routing, performance, routing, adaptive"
+Performance and power efficient on-chip communication using adaptive virtual point-to-point connections.,point-to-point connections
+A modular synchronizing FIFO for NoCs.,buffer
+Analysis of worst-case delay bounds for best-effort communication in wormhole networks on chip.,"flow control, delay, delay model, performance evaluation, wormhole"
+Static virtual channel allocation in oblivious routing.,"static, runtime, routing， virtual channel, link, virtual channel"
+Adaptive stochastic routing in fault-tolerant on-chip networks.,"Adaptive routing, Fault tolerance"
+Estimating reliability and throughput of source-synchronous wave-pipelined interconnect.,reliability， throughput， link
+A GALS many-core heterogeneous DSP platform with source-synchronous on-chip interconnection network.,GALS， heterogeneous
+Recursive partitioning multicast - A bandwidth-efficient routing for Networks-on-Chip.,"routing, multicast"
+Scalability of network-on-chip communication architecture for 3-D meshes.,3D，TSV，performance evaluation
+Author index.,

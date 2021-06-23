@@ -1,0 +1,79 @@
+year,title,keyword
+2001,A delay model and speculative architecture for pipelined routers,"modeling,virtual channel"
+2001,Self-tuned congestion control for multiprocessor networks,"flow control,reconfiguration"
+2003,Dynamic voltage scaling with links for power optimization of interconnection networks,
+2003,Scalar operand networks: on-chip interconnect for ILP in partitioned architectures,
+2003,A methodology for designing efficient on-chip interconnects on well-behaved communication patterns,
+2005,A new scalable and cost-effective congestion management strategy for lossless multistage interconnection networks,"flow control,indirect network"
+2005,Exploring the design space of power-aware opto-electronic networked systems,"design space exploration, optical, power/thermal management, link"
+2005,Accurate energy dissipation and thermal modeling for nanometer-scale buses,"bus, link"
+2007,A Domain-Specific On-Chip Network Design for Large Scale Cache Systems,"noc for memory, cache, flow control, mesh ,topology,routing"
+2007,Optical Interconnect Opportunities for Future Server Memory Systems,"optical, noc for memory"
+2007,Interconnect-Centric Computing,survey
+2008,Regional congestion awareness for load balance in networks-on-chip,
+2008,CMP network-on-chip overlaid with multi-band RF-interconnect,
+2008,Performance and power optimization through data compression in Network-on-Chip architectures,
+2009,Design and evaluation of a hierarchical on-chip interconnect for next-generation CMPs,
+2009,Express Cube Topologies for on-Chip Interconnects,
+2009,Elastic-buffer flow control for on-chip networks,
+2009,Prediction router: Yet another low latency on-chip router architecture,
+2009,A low-radix and low-diameter 3D interconnection network design,
+2009,In-Network Snoop Ordering (INSO): Snoopy coherence on unordered interconnects,noc for cache
+2009,Comparative Analysis of Worst-Case Communication Delay Bounds for 2D and 3D NoCs,"modeling, 3D"
+2010,Graphite: A distributed parallel simulator for multicores,
+2010,FlexiShare: Channel sharing for an energy-efficient nanophotonic crossbar,
+2010,Simple Virtual Channel Allocation for High-Throughput and High-Frequency On-Chip Routers,"virtual channel, router design, flow control"
+2010,"Towards scalable, energy-efficient, bus-based on-chip networks",
+2011,CHIPPER: A low-complexity bufferless deflection router,
+2011,Addressing system-level trimming issues in on-chip nanophotonic networks,optical
+2011,Power shifting in Thrifty Interconnection Network,power/thermal management
+2012,Network congestion avoidance through Speculative Reservation,flow control
+2012,Whole packet forwarding: Efficient design of fully adaptive routing algorithms for networks-on-chip,"adaptive routing ,virtual channel, deadlock avoidance"
+2012,Supporting efficient collective communication in NoCs,"multicast, noc for memory"
+2012,Network within a network approach to create a scalable high-radix router microarchitecture,"high-radix,crossbar ,router design"
+2013,Breaking the on-chip latency barrier using SMART,
+2013,Energy-efficient interconnect via Router Parking,power gating
+2013,Application-to-core mapping policies to reduce memory system interference in multi-core systems,
+2013,Scaling towards kilo-core processors with asymmetric high-radix topologies,"high-radix,Clos"
+2013,TS-Router: On maximizing the Quality-of-Allocation in the On-Chip Network,"QoS, router design"
+2013,Worm-Bubble Flow Control,"Flow Control,virtual channel, deadlock avoidance"
+2014,MP3: Minimizing performance penalty for power-gating of Clos network-on-chip,"power-gating , clos,flow control"
+2014,"Tangle: Route-oriented dynamic voltage minimization for variation-afflicted, energy-efficient on-chip networks",dvfs
+2014,QORE: A fault tolerant network-on-chip architecture with power-efficient quad-function channel (QFC) buffers,"buffer,fault tolerance"
+2014,Up by their bootstraps: Online learning in Artificial Neural Networks for CMP uncore power management,power/thermal management
+2014,Transportation-network-inspired network-on-chip,"ring, hierarchical , virtual channel,protocol,flow control"
+2015,Power punch: Towards non-blocking power-gating of NoC routers,power-gating
+2015,Augmenting low-latency HPC network with free-space optical links,"optical,free-space,topology"
+2015,Overcoming far-end congestion in large-scale networks,"routing,flow control,high-radix"
+2015,SCOC: High-radix switches made of bufferless clos networks,"High-radix, bufferless,clos"
+2015,Understanding contention-based channels and using them for defense,NoC for accelerator
+2016,The runahead network-on-chip,bufferless
+2016,SLaC: Stage laser control for a flattened butterfly network,"optical,butterfly"
+2016,DVFS for NoCs in CMPs: A thread voting approach,dvfs
+2016,Transitively Deadlock-Free Routing Algorithms,"routing,deadlock avoidance"
+2016,"Efficient synthetic traffic models for large, complex SoCs",traffic generator
+2016,"Providing Differentiated Services, Congestion Management, and Deadlock Freedom in Dragonfly Networks","flow control,deadlock avoidance, Dragonfly,Virtual Channel"
+2016,A New Fault-Tolerant Routing Methodology for KNS Topologies,"routing, fault tolerance"
+2017,High-Bandwidth Low-Latency Approximate Interconnection Networks,"Approximate,Optical ,ECC"
+2017,"Designing Low-Power, Low-Latency Networks-on-Chip by Optimally Combining Electrical and Optical Links",optical
+2017,Dragonfly+: Low Cost Topology for Scaling Datacenters,"Dragonfly,high-radix, deadlock avoidance,flow control"
+2017,Understanding and Optimizing Power Consumption in Memory Networks,"dvfs,power/thermal management, noc for memory"
+2017,Design and Evaluation of AWGR-Based Photonic NoC Architectures for 2.5D Integrated High Performance Computing Systems,"optical,noc for sip"
+2017,Static Bubble: A Framework for Deadlock-Free Irregular On-chip Topologies,"deadlock avoidance, design space exploration, routing ,topology"
+2018,Near-Ideal Networks-on-Chip for Servers,"cache, multi-hop"
+2018,Early Experiences with Saving Energy in Direct Interconnection Networks,"direct, power/thermal management"
+2018,A Case Study on Implementing Virtual 5D Torus Networks Using Network Components of Lower Dimensionality,torus
+2018,Routerless Network-on-Chip,router design
+2018,"Evaluating Energy-Saving Strategies on Torus, K-Ary N-Tree, and Dragonfly","performance evaluation, torus, tree, Dragonfly ,power/thermal management"
+2018,Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,"optical,reconfiguration"
+2018,Analyzing Topology Parameters for Achieving Energy-Efficient k-ary n-cubes,cube
+2018,Analysis and Improvement of Valiant Routing in Low-Diameter Networks,"routing,flow control,Dragonfly"
+2018,iNPG: Accelerating Critical Section Access with In-network Packet Generation for NoC Based Many-Cores,cache
+2019,Effects of Congestion Management on Energy Saving Techniques in Interconnection Networks,"flow control ,power/thermal management,torus,tree, dragonfly"
+2019,Shortest paths in Dragonfly systems,"dragonfly , routing"
+2020,Experiences with ML-Driven Design: A NoC Case Study,"arbitor, flow control"
+2020,DRAIN: Deadlock Removal for Arbitrary Irregular Networks,deadlock avoidance
+2020,Baldur: A Power-Efficient and Scalable Network Using All-Optical Switches,optical
+2020,A Deep Reinforcement Learning Framework for Architectural Exploration: A Routerless NoC Case Study,"router design, design space exploration"
+2020,SnackNoC: Processing in the Communication Layer,in-network computing
+2020,EquiNox: Equivalent NoC Injection Routers for Silicon Interposer-Based Throughput Processors,noc for sip

@@ -1,0 +1,29 @@
+title,topic_by_teacher
+Reducing the Interconnection Network Cost of Chip Multiprocessors.,"deadlock-->protocol, NoC for memory-->last level cache "
+Dynamic Voltage and Frequency Scaling Architecture for Units Integration within a GALS NoC.,"dvfs, gals, GALS， DVFS"
+Statistical Approach to NoC Design.,traffic model
+SEU-Hardened Energy Recovery Pipelined Interconnects for On-Chip Networks.,"recovery, reliablity, power consumption, fault tolerance"
+An Efficient Implementation of Distributed Routing Algorithms for NoCs.,"Routing, routing, distributed"
+A Network of Time-Division Multiplexed Wiring for FPGAs.,"router design, flow control，NoC for FPGA, tdm, noc for fpga, flow control"
+Network Simplicity for Latency Insensitive Cores.,flow control
+Exploring High-Dimensional Topologies for NoC Design Through an Integrated Analysis and Synthesis Framework.,"Synthesis, Topology"
+Hardwired Networks on Chip in FPGAs to Unify Functional and Con?guration Interconnects.,NoC for FPGA
+Applying Dataflow Analysis to Dimension Buffers for Guaranteed Performance in Networks on Chip.,flow control
+Low Power and Reliable Interconnection with Self-Corrected Green Coding Scheme for Network-on-Chip.,"Reliability, power consumption, link coding"
+Circuit-Switched Coherence.,"last level cache, noc for memory, flow control, flow control -->Circuit switching， NoC for memory-->last level cache, directory, circuit switching"
+A Lightweight Fault-Tolerant Mechanism for Network-on-Chip.,"Fault Tolerance，backup path, fault tolerance, routing"
+Impact of Process and Temperature Variations on Network-on-Chip Design Exploration.,"design space exploration, process variation, temperature, Design space Exploration, Process Variation"
+Dual-Channel Access Mechanism for Cost-Effective NoC Design.,link
+Implementation of Wave-Pipelined Interconnects in FPGAs.,NoC for FPGAs
+Adding Slow-Silent Virtual Channels for Low-Power On-Chip Networks.,"Virtual Channels， power consumption, virtual channels, link"
+"Invited Talk 1- Past, Present, and Future Communicating Processors.",
+Design of Bandwidth Aware and Congestion Avoiding Efficient Routing Algorithms for Networks-on-Chip Platforms.,"Routing, flow control"
+Physical Implementation of the DSPIN Network-on-Chip in the FAUST Architecture.,telecommunication
+An On-Chip and Inter-Chip Communications Network for the SpiNNaker Massively-Parallel Neural Net Simulator.,NoC for different applications-->machine learning 
+Real-Time Communication Analysis for On-Chip Networks with Wormhole Switching.,NoC for real-time (critical) systems
+ReNoC - A Network-on-Chip Architecture with Reconfigurable Topology.,"topology, architecture, power consumption, Reconfigurable, reconfigurable"
+"Simulation and Evaluation of On-Chip Interconnect Architectures - 2D Mesh, Spidergon, and WK-Recursive Network.",emulation and simulation/simulator， performance evaluation  ，mesh，Spidergon，WK-Recursive Network
+A Design-for-Test Implementation of an Asynchronous Network-on-Chip Architecture and its Associated Test Pattern Generation and Application.,"testing and diagnosis, Testing and diagnosis, architecture, asynchronous"
+Debugging Distributed-Shared-Memory Communication at Multiple Granularities in Networks on Chip.,"distributed, Debug, debug"
+Invited Talk 2 - Optical Interconnects for Backplane and Chip-to-Chip Photonics.,
+Low-Cost VC Allocator Design for Virtual Channel Wormhole Routers in Networks-on-Chip.,Virtual Channel

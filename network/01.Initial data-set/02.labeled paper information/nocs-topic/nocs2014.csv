@@ -1,0 +1,38 @@
+title,topic_by_teacher
+Scalability-oriented multicast traffic characterization.,multicast
+DiAMOND - Distributed alteration of messages for on-chip network debug.,"distributed, debug"
+High-performance energy-efficient NoC fabrics - Evolution and future challenges.,
+Augmenting manycore programmable accelerators with photonic interconnect technology for the high-end embedded computing domain.,optical
+Dynamic synchronizer flip-flop performance in FinFET technologies.,flip flop，FinFET
+DyAFNoC - Characterization and analysis of a dynamically reconfigurable NoC using a DOR-based deadlock-free routing algorithm.,"reconfigurable, routing, deadlock"
+Sharing and placement of on-chip laser sources in silicon-photonic NoCs.,"placement and floorplanning, optical，placement and floorplanning"
+Sampling-based approaches to accelerate network-on-chip simulation.,Emulation and Simulation/Simulator
+An analytical model for worst-case reorder buffer size of multi-path minimal routing NoCs.,delay model
+ICARO - Congestion isolation in networks-on-chip.,flow control
+SpinNNaker - The world's biggest NoC.,
+Achieving balanced buffer utilization with a proper co-design of flow control and routing algorithm.,"flow control，routing, flow control"
+QuT - A low-power optical Network-on-Chip.,optical， power consumption
+Bubble sharing - Area and energy efficient adaptive routers using centralized buffers.,"router design, adaptive, power consumption, centralized, ring, area, router design，area"
+Hermes - Architecting a top-performing fault-tolerant routing algorithm for Networks-on-Chips.,fault-tolerance
+Extending bufferless on-chip networks to high-throughput workloads.,"performance, throughput, bufferless, flow control"
+An energy-efficient millimeter-wave wireless NoC with congestion-aware routing and DVFS.,"wireless, flow control, DVFS, power consumption"
+A loosely synchronizing asynchronous router for TDM-scheduled NOCs.,"router design, tdm, asynchronous, flow control"
+Single-cycle collective communication over a shared network fabric.,multicast
+A novel non-minimal/minimal turn model for highly adaptive routing in 2D NoCs.,"adaptive routing，deadlock avoidance, non-minimal"
+Towards stochastic delay bound analysis for Network-on-Chip.,"performance evaluation, delay, delay model"
+"Introduction to the special session on ""Interconnect enhances architecture - Evolution of wireless NoC from planar to 3D"".",
+Variable-width datapath for on-chip network static power reduction.,"link, power consumption, static, power gating"
+CLAP - a crosstalk and loss analysis platform for optical interconnects.,"crosstalk, optical, performance evaluation"
+Transient queuing models for input-buffered routers in Network-on-Chip.,delay model
+Design trade-offs in energy efficient NoC architectures.,energy delay product，performance evaluation
+FMEA-based analysis of a Network-on-Chip for mixed-critical systems.,NoC for real-time (critical) systems
+Towards compelling cases for the viability of silicon-nanophotonic technology in future manycore systems.,optical
+STORM - A Simple Traffic-Optimized Router Microarchitecture for Networks-on-Chip.,router design
+Effective abstraction for response proof of communication fabrics.,Verification
+Using packet information for efficient communication in NoCs.,flow control
+ElastiNoC - A self-testable distributed VC-based Network-on-Chip architecture.,testing and diagnosis
+"Technology assessment of silicon interposers for manycore SoCs - Active, passive, or optical?",NoC for SiP
+An OFDMA based RF interconnect for massive multi-core processors.,transmission lines
+"Introduction to the special session on ""Silicon photonic interconnects - an illusion or a realistic solution?"".",
+An efficient Network-on-Chip (NoC) based multicore platform for hierarchical parallel genetic algorithms.,NoC for different applications -->machine learning
+Design of a low power NoC router using Marching Memory Through type.,router design，power consumption

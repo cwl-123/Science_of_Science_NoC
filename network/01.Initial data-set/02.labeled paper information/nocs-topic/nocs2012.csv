@@ -1,0 +1,26 @@
+title,topic_by_teacher
+TOPAZ - An Open-Source Interconnection Network Simulator for Chip Multiprocessors and Supercomputers.,"emulation and simulation/simulator,opensource simulator"
+Déjà Vu Switching for Multiplane NoCs.,"NoC for memory-->last level cache, flow control"
+An Optimal Control Approach to Power Management for Multi-Voltage and Frequency Islands Multiprocessor Platforms under Highly Variable Workloads.,Power Management，V/F island
+Hierarchical Network-on-Chip and Traffic Compression for Spiking Neural Network Implementations.,"Hierarchical,NoC for different applications-->machine learning"
+A Novel Flit Serialization Strategy to Utilize Partially Faulty Links in Networks-on-Chip.,"serialization, fault tolerance, link"
+In-network Monitoring and Control Policy for DVFS of CMP Networks-on-Chip and Last Level Caches.,"performance, dvfs, monitoring, last level cache, NoC for memory-->last level cache，DVFS, noc for memory"
+HARAQ - Congestion-Aware Learning Model for Highly Adaptive Routing Algorithm in On-Chip Networks.,"link, adaptive, routing, flow control, flow control，routing"
+MinBD - Minimally-Buffered Deflection Routing for Energy-Efficient Interconnect.,"performance, power consumption, Routing，power consumption， bufferless, deflection, routing, bufferless, buffered"
+Fine-Grained Bandwidth Adaptivity in Networks-on-Chip Using Bidirectional Channels.,link
+A Hybrid Buffer Design with STT-MRAM for On-Chip Interconnects.,"router design, buffer design, buffer, spintronics, router Design-->Buffer, hybrid, Spintronics"
+Synthesis of NoC Interconnects for Custom MPSoC Architectures.,"Synthesis, performance"
+Heterogeneous NoC Design for Efficient Broadcast-based Coherence Protocol Support.,"heterogeneous, multicast, last level cache, Heterogeneous，NoC for memory-->last level cache，multicast, protocol, noc for memory"
+Dynamic Flow Regulation for IP Integration on Network-on-Chip.,"runtime, flow control"
+Reservation-based Network-on-Chip Timing Models for Large-scale Architectural Simulation.,emulation and simulation/simulator
+Analytical Performance Modeling of Hierarchical Interconnect Fabrics.,delay model
+Generic Monitoring and Management Infrastructure for 3D NoC-Bus Hybrid Architectures.,"bus, algorithm, power/thermal management, 3d, temperature, fault tolerance, flow control, 3D，monitoring, fault tolerance，flow control"
+Engineering a Bandwidth-Scalable Optical Layer for a 3D Multi-core Processor with Awareness of Layout Constraints.,
+Modeling and Power Evaluation of On-Chip Router Components in Spintronics.,Spintronics， router design
+A Statically Scheduled Time-Division-Multiplexed Network-on-Chip for Real-Time Systems.,"flow control, NoC for real-time systems"
+DSENT - A Tool Connecting Emerging Photonics with Electronics for Opto-Electronic Networks-on-Chip Modeling.,"power consumption, optical，modeling，opensource simulator, modeling, opensource simulator, optical"
+A Mixed Verification Strategy Tailored for Networks on Chip.,Verification
+CCNoC - Specializing On-Chip Interconnects for Energy Efficiency in Cache-Coherent Servers.,"NoC for memory-->last level cache，power consumption, mesh, cache, power consumption"
+Efficient Timing Channel Protection for On-Chip Networks.,"defense, link, side channel, security, covert channel"
+Transient and Permanent Error Control for High-End Multiprocessor Systems-on-Chip.,ECC
+Overlaid Mesh Topology Design and Deadlock Free Routing in Wireless Network-on-Chip.,"topology, wireless, Wireless， topology，deadlock avoidance，routing, routing, deadlock avoidance, deadlock, mesh"

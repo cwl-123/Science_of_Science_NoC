@@ -1,0 +1,33 @@
+title,topic_by_teacher
+Photonic Chip-Scale Interconnection Networks for Performance-Energy Optimized Computing.,
+QuaLe - A Quantum-Leap Inspired Model for Non-stationary Analysis of NoC Traffic in Chip Multi-processors.,traffic modeling
+Traffic- and Thermal-Aware Run-Time Thermal Management Scheme for 3D NoC Systems.,"power/temperature management, 3D, runtime, temperature, 3d noc, routing, 3d"
+Physical vs. Virtual Express Topologies with Low-Swing Links for Future Many-Core NoCs.,"express topology， performance evaluation, area, express topology, links, performance evaluation"
+"Semiconductor Industry - Perspective, Evolution and Challenges.",
+A Low-Latency and Memory-Efficient On-chip Network.,"latency,  NI design"
+Back Suction - Service Guarantees for Latency-Sensitive On-chip Networks.,"flow control, QoS"
+Comparing Energy and Latency of Asynchronous and Synchronous NoCs for Embedded SoCs.,"asynchronous, power consumption, Power consumption， performance evaluation"
+Hierarchical Network-on-Chip for Embedded Many-Core Architectures.,"area, hierarchical, topology-->Hierarchical, topology"
+Improving the Performance of GALS-Based NoCs in the Presence of Process Variation.,Process Variation，GALS
+A Low-Overhead Asynchronous Interconnection Network for GALS Chip Multiprocessors.,"performance, GALS, routing, asynchronous, gals, throughput"
+Asynchronous Bypass Channels - Improving Performance for Multi-synchronous NoCs.,"router design, topology, routing"
+Fault-Tolerant Flow Control in On-chip Networks.,"Fault Tolerance, Flow Control"
+Design of High-Radix Clos Network-on-Chip.,Clos
+A Network Congestion-Aware Memory Controller.,"memory controller, memory cotnroller, NoC for memory-->memory cotnroller, flow control, noc for memory"
+Comparison of Deadlock Recovery and Avoidance Mechanisms to Approach Message Dependent Deadlocks in On-chip Networks.,Deadlock Recovery， Deadlock Avoidance，protocol
+Ultra Fine-Grained Run-Time Power Gating of On-chip Routers for CMPs.,"Power Gating, router design"
+Performance Evaluation of a Multicore System with Optically Connected Memory Modules.,"Performance Evaluation， optical， NoC for memory, performance, optical, performance evaluation, bus, noc for memory"
+Evaluating Bufferless Flow Control for On-chip Networks.,Bufferless
+Power-Efficient and High-Performance Multi-level Hybrid Nanophotonic Interconnect for Multicores.,"performance, power consumption, optical, hybrid"
+Physical-Aware Link Allocation and Route Assignment for Chip Multiprocessing.,"link, deadlock avoidance, design space exploration"
+Impact of Half-Duplex and Full-Duplex DMA Implementations on NoC Performance.,"NoC for memory-->DMA, dma, performance, noc for memory"
+A 128 x 128 x 24Gb/s Crossbar Interconnecting 128 Tiles in a Single Hop and Occupying 6% of Their Area.,"router design, crossbar, Router design-->Crossbar, area"
+Design of a High-Throughput Distributed Shared-Buffer NoC Router.,"router design, buffer, Router design-->buffer, throughput, distributed"
+Addressing Manufacturing Challenges with Cost-Efficient Fault Tolerant Routing.,"fault tolerance, Fault Tolerance， routing"
+Low-Power Bioelectronics for Massively Parallel Neuromonitoring.,
+Distributed Sequencing for Resource Sharing in Multi-applicative Heterogeneous NoC Platforms.,mapping
+Network-on-Chip Architectures for Neural Networks.,"machine learning, NoC for different applications-->machine learning, mesh, noc for different applications"
+Improved Utilization of NoC Channel Bandwidth by Switch Replication for Cost-Effective Multi-processor Systems-on-Chip.,"flow control, link, virtual channel"
+Temperature-Aware Delay Borrowing for Energy-Efficient Low-Voltage Link Design.,"latency, link, power consumption, Link, delay, temperature"
+A Low-Cost Deadlock-Free Design of Minimal-Table Rerouted XY-Routing for Irregular Wireless NoCs.,"minimal, wireless, avoidance, routing, deadlock avoidance, deadlock"
+Transient and Permanent Error Co-management Method for Reliable Networks-on-Chip.,"reliability, ECC, ecc"

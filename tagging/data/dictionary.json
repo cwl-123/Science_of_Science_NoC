@@ -1,0 +1,308 @@
+{
+	"power management": [
+		"power budgeting",
+		"power control",
+		"power allocation",
+		"dark silicon"
+	],
+	"migration": [
+		"defragmentation",
+		"thread migration"
+	],
+	"game theory": [
+		"auction",
+		"economic",
+		"game",
+		"games"
+	],
+	"runtime": [
+		"run-time",
+		"online",
+		"dynamic"
+	],
+	"branch and bound": [
+		"branch-and-bound"
+	],
+	"DVFS": [
+		"dynamic frequency and voltage scaling",
+		"frequency scaling",
+		"voltage scaling",
+		"frequency and voltage scaling",
+		"DVS",
+		"voltage overscaling",
+		"Dynamic Voltage and Frequency Scaling",
+		"adaptive voltage",
+		"multiple voltage levels"
+	],
+	"temperature": [
+		"thermal"
+	],
+	"NoC for many-core": [
+		"TRIPS",
+		"Cell Broadband Engine",
+		"Real Chip Implementation"
+	],
+	"latency": [
+		"low-latency"
+	],
+	"flow control": [
+		"credit",
+		"fair",
+		"TDMA",
+		"Time-Division Multiplexed",
+		"flow-aware",
+		"congestion",
+		"wormhole switching",
+		"virtual circuits",
+		"switching",
+		"Flow Regulation",
+		"Time-Division-Multiplexed",
+		"Congestion Management",
+		"data criticality",
+		"congestion control",
+		"Packet Prioritisation",
+		"Time Division Multiplexing"
+	],
+	"fault tolerance": [
+		"unreliable",
+		"SEU",
+		"faulty",
+		"fault control"
+	],
+	"NI": [
+		"network interface"
+	],
+	"Reliability": [
+		"Reliable"
+	],
+	"deadlock": [
+		"end-to-end deadlock"
+	],
+	"last level cache": [
+		"coherence protocol",
+		"Cache Coherence",
+		"coherence",
+		"NUCA"
+	],
+	"machine learning": [
+		"SpiNNaker",
+		"genetic algorithms",
+		"CNN",
+		"Neural Network",
+		"big data"
+	],
+	"link": [
+		"channel",
+		"Bidirectional Channels"
+	],
+	"delay model": [
+		"delay bounds",
+		"timing analysis for NoCs",
+		"latency estimator",
+		"Delay analysis",
+		"time analysis",
+		"network calculus"
+	],
+	"telecommunication": [
+		"4G"
+	],
+	"power modeling": [
+		"power estimation"
+	],
+	"survey": [
+		"outline the opportunities and challenges"
+	],
+	"buffer": [
+		"FIFO",
+		"buffer design"
+	],
+	"protocol": [
+		"Message Dependent Deadlocks"
+	],
+	"NI design": [
+		"network interface architecture"
+	],
+	"ECC": [
+		"Transient error",
+		"Permanent Error",
+		"error control"
+	],
+	"Qos": [
+		"quality-of-service"
+	],
+	"power consumption": [
+		"Power-Efficient",
+		"energy",
+		"power reduction",
+		"low-power",
+		"energy-efficient",
+		"power reduction"
+	],
+	"optical": [
+		"Photonic",
+		"nanophotonic"
+	],
+	"mapping": [
+		"remapping"
+	],
+	"Cryptography": [
+		"Cryptographic"
+	],
+	"demo system": [
+		"development board"
+	],
+	"v/f island": [
+		"voltage-frequency island",
+		"Voltage and Frequency Islands",
+		"voltage island"
+	],
+	"modeling": [
+		"trace analysis"
+	],
+	"bufferless": [
+		"Deflection"
+	],
+	"multicast": [
+		"broadcast",
+		"collective communication",
+		"multicasting"
+	],
+	"defense": [
+		"protection"
+	],
+	"Spintronics": [
+		"STT"
+	],
+	"deadlock recovery": [
+		"deadlock detection"
+	],
+	"application mapping": [
+		"task mapping"
+	],
+	"floorplanning": [
+		"physical planning"
+	],
+	"deadlock avoidance": [
+		"deadlock free",
+		"deadlock freedom",
+		"turn model"
+	],
+	"real time": [
+		"mixed-critical",
+		"mixed-criticality"
+	],
+	"power gating": [
+		"activate virtual channels",
+		"VC activation",
+		"shutdown"
+	],
+	"NoC for SiP": [
+		"silicon interposers"
+	],
+	"transmission line": [
+		"RF Interconnect"
+	],
+	"verification": [
+		"satisfiability"
+	],
+	"wireless": [
+		"Capacitive Coupling",
+		"Millimeter Wave",
+		"mm wave",
+		"Inductive Coupling",
+		"WiNoC"
+	],
+	"DoS": [
+		"Denial",
+		"denial-of-service"
+	],
+	"router design": [
+		"TDM",
+		"pipeline bypassing"
+	],
+	"bio/medical": [
+		"Biological",
+		"medicine",
+		"k-mer counting",
+		"Protein Folding Analysis"
+	],
+	"reliabilty": [
+		"wear",
+		"worn out",
+		"aging"
+	],
+	"NoC for real-time (critical) systems": [
+		"critical",
+		"safety critical",
+		"real-time",
+		"real time"
+	],
+	"topology": [
+		"diameter",
+		"SDN architecture",
+		"NoC architecture"
+	],
+	"wearable": [
+		"stretchable electronic"
+	],
+	"SoP": [
+		"2.5D",
+		"interposer",
+		"Si-Fi"
+	],
+	"NoC for GPU": [
+		"GPGPU"
+	],
+	"HT": [
+		"hardware Trojan"
+	],
+	"info leak": [
+		"Data-snooping",
+		"snoop"
+	],
+	"express topology": [
+		"virtual express paths"
+	],
+	"heuristic": [
+		"hill climbing"
+	],
+	"aging": [
+		"HCI",
+		"NBTI",
+		"HCI",
+		"TDDB"
+	],
+	"arbiter design": [
+		"arbitration"
+	],
+	"multilayer": [
+		"multiplanes"
+	],
+	"chip implementation": [
+		"aethereal"
+	],
+	"design space exploration": [
+		"design automation tool flow"
+	],
+	"avoidance": [
+		"deadlock-free"
+	],
+	"NoC for memory systems": [
+		"SDRAM"
+	],
+	"BER": [
+		"bit error rate"
+	],
+	"ILP": [
+		"Integer Linear Programming"
+	],
+	"circuit switching": [
+		"circuit-switched"
+	],
+	"V/F island": [
+		"voltage-frequency islands"
+	],
+	"ring": [
+		"rings"
+	]
+}

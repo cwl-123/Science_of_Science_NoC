@@ -1,0 +1,28 @@
+title,topic_by_teacher
+PROSA - protocol-driven NoC architecture.,NoC for memory-->last level cache
+Sharing a global on-chip transmission line medium without centralized scheduling.,"bus, scheduling, transmission lines, centralized"
+Multi-bit transient fault control for NoC links using 2D fault coding method.,"fault tolerance, link, link coding and modeling, ecc"
+TooT - an efficient and scalable power-gating method for NoC routers.,power gating
+Extending networks from chips to flexible and stretchable electronics.,NoC for architecture-->wearable
+Printed circuits on flexible substrates - opportunities and challenges (invited paper).,NoC for architecture-->bio
+The synchronous vs. asynchronous NoC routers - an apple-to-apple comparison between synchronous and transition signaling asynchronous designs.,"router design, asynchronous"
+Toward exa-scale photonic switch system for the future datacenter (invited paper).,
+Design of high bandwidth photonic NoC architectures using optical multilevel signaling.,optical
+A heuristic method of generating diameter 3 graphs for order/degree problem (invited paper).,"graph, heuristic, topology"
+Safe and dynamic traffic rate control for networks-on-chips.,NoC for real-time (critical) systems
+Chip-scale si-photonics optical transceiverfor a photonics-electronics convergence system (invited paper).,optical
+Tighter time analysis for real-time traffic in on-chip networks with shared priorities.,NoC for real-time systems，delay model
+A built-in self-testing framework for asynchronous bundled-data NoC switches resilient to delay variations.,testing and diagnosis
+Constructing large-scale low-latency network from small optimal networks.,"topology, graph"
+Logic-based implementation of fault-tolerant routing in 3D network-on-chips.,"3D, fault tolerance routing"
+Using benes networks at fault-tolerant and deflection routing based network-on-chips.,"benes, fault tolerance, routing, deflection, routing, bufferless"
+Powermax - an automated methodology for generating peak-power traffic in networks-on-chip.,"power consumption, traffic generator"
+Average shortest path length of graphs of diameter 3.,topology
+An area-efficient TDM NoC supporting reconfiguration for mode changes.,reconfiguration， flow control
+Flow-centric computing leveraged by photonic circuit switching for the post-moore era.,optical
+Populating and exploring the design space of wavelength-routed optical network-on-chip topologies by leveraging the add-drop filtering primitive.,"drop, design space exploration, topology, optical, design space exploration，optical"
+Run-time laser power management in photonic NoCs with on-chip semiconductor optical amplifiers.,optical， power management
+Hybrid large-area systems and their interconnection backbone (invited paper).,NoC for architecture-->large-area systems
+Bubble budgeting - throughput optimization for dynamic workloads by exploiting dark cores in many core systems.,
+Improving NoC performance under spatio-temporal variability by runtime reconfiguration - a general mathematical framework.,reconfiguration
+"Inter/intra-chip optical interconnection network - opportunities, challenges, and implementations.",optical

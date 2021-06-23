@@ -1,0 +1,125 @@
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+title,topic_by_teacher
+Binary de Bruijn on-chip network for a flexible multiprocessor LDPC decoder,LDPC decoder
+An area-efficient high-throughput hybrid interconnection network for single-chip parallel processing,"Mesh-of-Trees,butterfly"
+A reconfigurable routing algorithm for a fault-tolerant 2D-Mesh Network-on-Chip,"fault tolerance,routing,reconfiguration"
+A practical approach of memory access parallelization to exploit multiple off-chip DDR memories,memory controller
+Variation-adaptive feedback control for networks-on-chip with multiple clock domains, V/F island
+Application mapping for chip multiprocessors,"mapping,compiler"
+Concurrent topology and routing optimization in automotive network integration,"design space exploration ,ILP,Evolutionary Algorithm"
+A dynamically-allocated virtual channel architecture with congestion awareness for on-chip routers,virtual channel
+PARM: power supply noise aware resource management for NoC based multicore systems in the dark silicon era,power supply noise
+Coding Approach for Low-Power 3D Interconnects,"3D NoC, TSV"
+SOTERIA: exploiting process variations to enhance hardware security with photonic NoC architectures,"optical-->microring, security-->attack-->HT-->info leak, defense"
+LEAD: learning-enabled energy-aware dynamic voltage/frequency scaling in NoCs,"solution-->algorithm-->reinforcement learning, power/thermal management-->technique-->DVFS"
+PlanarONoC: concurrent placement and routing considering crossing minimization for optical networks-on-chip,"optical,placement and floorplanning"
+DyAD: smart routing for networks-on-chip,"routing, adaptive routing"
+Operating-system controlled network on chip.,operating system
+An efficient scalable and flexible data transfer architecture for multiprocessor SoC with massive distributed memory,NoC for memory
+Design space exploration and prototyping for on-chip multimedia applications.,"design space exploration, power consumption, Design space exploration"
+Statistical on-chip communication bus synthesis and voltage scaling under timing yield constraint,"dvfs,synthesis,timing"
+Behavior and communication co-optimization for systems with sequential communication media,synthesis
+Synthesis of high-performance packet processing pipelines,synthesis
+Optimal link scheduling on improving best-effort and guaranteed services performance in network-on-chip systems,flow control
+Prediction-based flow control for network-on-chip traffic,flow control
+A multi-path routing strategy with guaranteed in-order packet delivery and fault-tolerance for networks on chip,routing
+DyXY: a proximity congestion-aware deadlock-free dynamic routing method for network on chip,"routing,deadlock, avoidance"
+Fault-tolerant Routing for On-chip Network Without Using Virtual Channels,"fault tolerance,routing-->adaptive"
+VIX: Virtual Input Crossbar for Efficient Switch Allocation,"Crossbar, virtual channel"
+SHiFA: System-Level Hierarchy in Run-Time Fault-Aware Management of Many-Core Systems,"fault tolerance, mapping-->runtime"
+Disease Diagnosis-on-a-Chip: Large Scale Networks-on-Chip based Multicore Platform for Protein Folding Analysis,bio/ medical
+CAP: Communication Aware Programming,programming
+Fort-NoCs: Mitigating the Threat of a Compromised NoC,"side-channel attack, defense"
+NoC-Sprinting: Interconnect for Fine-Grained Sprinting in the Dark Silicon Era,"power/thermal management, power gating, Sprinting,routing, topology, floorplanning"
+darkNoC: Designing Energy-Efficient Network-on-Chip with Multi-Vt Cells for Dark Silicon,"power/thermal management,Multi-Vt"
+Power-Aware NoCs through Routing and Topology Reconfiguration,"power/thermal management-->power-gating,Routing,Reconfiguration"
+Quality-of-Service for a High-Radix Switch,"router design,High-Radix"
+Complementary communication path for energy efficient on-chip optical interconnects,optical
+On-chip interconnection network for accelerator-rich architectures,NoC for accelerator
+Bandwidth-efficient on-chip interconnect designs for GPGPUs,"NoC for GPU,virtual channel"
+DimNoC: a dim silicon approach towards power-efficient on-chip network,"Power/thermal mamnagement, Spintronics, drowsy, buffer"
+Domain-wall memory buffer for low-energy NoCs,"NoC for memory, Spintronics"
+SuperNet: multimode interconnect architecture for manycore chips,"power/thermal management, reliability,multi-vt"
+Network footprint reduction through data access and computation placement in NoC-based manycores,compiler
+A Lightweight Early Arbitration Method for Low-Latency Asynchronous 2D-Mesh NoC's,"mesh,arbiter design,asynchronous,link"
+ANN Based Admission Control for On-Chip Networks,flow control-->admission control
+An Energy-Efficient Network-on-Chip Design using Reinforcement Learning,"solution-->algorithm-->reinforcement learning, power/thermal management-->technique-->DVFS, power gating"
+Lightweight Mitigation of Hardware Trojan Attacks in NoC-based Manycore Computing,"security-->attack-->HT-->info leak, security-->defense"
+Sparse 3-D NoCs with Inductive Coupling,3D NoC-->inductance coupling
+Surf-Bless: A Confined-interference Routing for Energy-Efficient Communication in NoCs,routing-->unicast
+Effect of Distributed Directories in Mesh Interconnects,"NoC for memory-->cache-->directory, mesh"
+DCFNoC: A Delayed Conflict-Free Time Division Multiplexing Network on Chip,flow control-->TDM
+O-Router: an optical routing framework for low power on-chip silicon nano-photonic integration,"optical,power consumption,ILP, routing"
+Spectrum: a hybrid nanophotonic-electric on-chip network,"optical,multicast,WDM"
+Exploring serial vertical interconnects for 3D ICs,"3D,TSV,serialization"
+No cache-coherence: a single-cycle ring interconnection for multi-core L1-NUCA sharing on 3D chips,"3D, cache,ring,circuit switching, arbiter"
+NoC topology synthesis for supporting shutdown of voltage islands in SoCs,"synthesis,V/F island, power gating"
+Dynamic thread and data mapping for NoC based CMPs,mapping-->runtime
+Cost-driven 3D integration with interconnect layers,"3D,area"
+A multilayer nanophotonic interconnection network for on-chip many-core communications,"optical,multilayer"
+Virtual channels vs. multiple physical networks: a comparative analysis,"Virtual channels, multilayer"
+An efficient dynamically reconfigurable on-chip network architecture,"reconfigurable ,topology-->application-specific"
+Networks on Chips: from research to products,synthesis
+"The aethereal network on chip after ten years: goals, evolution, lessons, and future",chip implementation
+The evolution of SOC interconnect and how NOC fits within it,design space explore
+Automated modeling and emulation of interconnect designs for many-core chip multiprocessors,"modeling,Emulation and Simulation/Simulator,synthesis,design space exploration"
+Trace-driven optimization of networks-on-chip configurations,virtual channel
+ACES: application-specific cycle elimination and splitting for deadlock-free routing on irregular network-on-chip,deadlock-->resolution-->avoidance
+NTPT: on the end-to-end traffic prediction in the on-chip networks,runtime traffic prediction
+Application-aware NoC design for efficient SDRAM access,"NoC for memory systems, flow control"
+Network on chip design and optimization using specialized influence models,"DVFS,traffic modeling"
+Crosstalk noise and bit error rate analysis for optical network-on-chip,"optical,BER, crosstalk,SNR"
+Mapping on multi/many-core systems: survey of current and emerging trends,"mapping,runtime static"
+Proactive circuit allocation in multiplane NoCs,circuit switching
+A heterogeneous multiple network-on-chip design: an application-aware approach,NoC for heterogeneous systems
+Designing energy-efficient NoC for real-time embedded systems through slack optimization,"NoC for real-time (critical) systems,power/thermal management"
+RISO: relaxed network-on-chip isolation for cloud processors,"NoC for Cloud, network isolation"
+Smart hill climbing for agile dynamic mapping in many-core systems,"mapping-->runtime,heuristic"
+HCI-tolerant NoC router microarchitecture,"aging, router design-->Crossbar"
+Fault and energy-aware communication mapping with guaranteed latency for applications implemented on NoC,"fault-tolerance,mapping, power consumption"
+A low latency router supporting adaptivity for on-chip interconnects.,"router design, routing, adaptive routing"
+Floorplan-aware automated synthesis of bus-based communication architectures,synthesis
+FLEXBUS: a high-performance system-on-chip communication architecture with a dynamically configurable topology,"architecture,topology,performance"
+A low-cost conflict-free NoC for GPGPUs,NoC for GPU
+Notifying memories: a case-study on data-flow applications with NoC interfaces implementation,data flow
+Quest for high-performance bufferless NoCs with single-cycle express paths and self-learning throttling,"bufferless,express topology"
+DISCO: a low overhead in-network data compressor for energy-efficient chip multi-processors,"NoC for memory, compression"
+Achieving lightweight multicast in asynchronous networks-on-chip using local speculation,"multicast,asynchronous,tree-based"
+PICO: mitigating heterodyne crosstalk due to process variations and intermodulation effects in photonic NoCs,"optical,crosstalk"
+Shift sprinting: fine-grained temperature-aware NoC-based MCSoC architecture in dark silicon age,"power/thermal management, architecture,sprinting,temperature"
+Voltage-Frequency Island Partitioning for GALS-based Networks-on-Chip.,"V/F island, gals, power consumption"
+Introducing the SuperGT Network-on-Chip; SuperGT QoS: more than just GT.,QoS
+Layered Switching for Networks on Chip.,"virtual cut-through, flow control"
+Energy-Aware Synthesis of Networks-on-Chip Implemented with Voltage Islands.,"Synthesis, power consumption, V/F island"
+The Case for Low-Power Photonic Networks on Chip.,"power consumption, optical"
+Interconnect and communication synthesis for distributed register-file microarchitecture,"synthesis,DSE"
+Selective bandwidth and resource management in scheduling for dynamically reconfigurable architectures,scheduling
+Quantum-like effects in network-on-chip buffers behavior,buffer design
+Interconnects in the third dimension: design challenges for 3D ICs,"3D, DSE"
+Performance modeling and optimization for single- and multi-wall carbon nanotube interconnects,carbon nanotube
+"Micro-photonic interconnects: characteristics, possibilities and limitations",optical
+CAD implications of new interconnect technologies,"optical,mix,DSE"
+HyCUBE: A CGRA with Reconfigurable Single-cycle Multi-hop Interconnect,flow control-->Multi-hop
+MOCA: an Inter/Intra-Chip Optical Network for Memory,"optical, NoC for memory"
+Low-Power On-Chip Network Providing Guaranteed Services for Snoopy Coherent and Artificial Neural Network Systems,"NoC for memory, NoC for different applications-->machine learning, bufferless"
+Accelerating Graph Community Detection with Approximate Updates via an Energy-Efficient NoC,"NoC for different applications-->graph, wireless"
+"Task Mapping on SMART NoC: Contention Matters, Not the Distance",mapping-->static
+Cost-efficient buffer sizing in shared-memory 3D-MPSoCs using wide I/O interfaces,"3D,NoC for memory,buffer"
+Attackboard: a novel dependency-aware traffic generator for exploring NoC design space,"traffic generator,design space exploration"
+Towards graceful aging degradation in NoCs through an adaptive routing algorithm,"aging,routing-->adaptive,router  design"
+Explicit modeling of control and data for improved NoC router estimation,opensource simulator
+Approaching the theoretical limits of a mesh NoC with a 16-node chip prototype in 45nm SOI,"chip implementation, mesh"
+High radix self-arbitrating switch fabric with multiple arbitration schemes and quality of service,"High-radix,arbiter design,QoS,topology"
+A hybrid NoC design for cache coherence optimization for chip multiprocessors,"NoC for memory-->last level cache,reconfiguration, hybrid, cache"

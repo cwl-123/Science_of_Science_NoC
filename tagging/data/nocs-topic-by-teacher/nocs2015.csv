@@ -1,0 +1,33 @@
+title,topic_by_teacher
+Networking Challenges and Prospective Impact of Broadcast-Oriented Wireless Networks-on-Chip.,"wireless, multicast"
+Novel Hybrid Wired-Wireless Network-on-Chip Architectures - Transducer and Communication Fabric Design.,Wireless
+Mathematical Modeling and Control of Multifractal Workloads for Data-Center-on-a-Chip Optimization.,Modeling
+NoC Architectures as Enablers of Biological Discovery for Personalized and Precision Medicine.,application-->bio/medical
+Modeling and Design of High-Radix On-Chip Crossbar Switches.,"modeling, Crossbar, high-radix, crossbar, area"
+Parka - Thermally Insulated Nanophotonic Interconnects.,"power consumption, temperature, ring, optical，temperature, optical"
+"A Low-Overhead, Fully-Distributed, Guaranteed-Delivery Routing Algorithm for Faulty Network-on-Chips.","fault tolerance, routing, distributed, algorithm"
+Achievable Performance Enhancements with mm-Wave Wireless Interconnects in NoC.,wireless
+MapPro - Proactive Runtime Mapping for Dynamic Workloads by Quantifying Ripple Effect of Applications on Networks-on-Chip.,runtime mapping
+Dark Silicon - From Computation to Communication.,"power management, power consumption, performance, reliability"
+Improving DVFS in NoCs with Coherence Prediction.,"power management, noc for architecture, power management-->DVFS，NoC for architecture-->memory-->last level cache, memory"
+Exploiting Transmission Lines on Heterogeneous Networks-on-Chip to Improve the Adaptivity and Efficiency of Cache Coherence.,"cache, heterogeneous, last level cache, Transmission Lines，NoC for memory-->last level cache, noc for memory, transmission lines"
+Fault-Tolerant 3D-NoC Architecture and Design - Recent Advances and Challenges.,"3D，fault tolerance, topology, fault tolerance, routing, 3d, architecture"
+"Designing High-Performance, Power-Efficient NoCs With Embedded Silicon-in-Silica Nanophotonics.",optical
+ARTEMIS - An Aging-Aware Runtime Application Mapping Framework for 3D NoC-based Chip Multiprocessors.,3D，reliability
+Highly Fault-tolerant NoC Routing with Application-aware Congestion Management.,"link, fault tolerance，flow control, flow control, fault tolerance, routing"
+Highway in TDM NoCs.,"router design，flow control, flow control, tdm"
+Reconfigurable Wireless Network-on-Chip with a Dynamic Medium Access Mechanism.,"runtime, wireless， Reconfigurable, power consumption, wireless, reconfigurable"
+On-Chip Millimeter Wave Antennas and Transceivers.,wireless
+Data Criticality in Network-On-Chip Design.,"power consumption, flow control, noc for real-time (critical) systems"
+"Fabrics on Die - Where Function, Debug and Test Meet.",testing and diagnosis
+Fault-tolerant Network-on-Chip based on Fault-aware Flits and Deflection Routing.,"deflection, fault tolerance, routing, bufferless"
+Runtime Detection of a Bandwidth Denial Attack from a Rogue Network-on-Chip.,security-->attack-->DoS
+A Framework for Combining Concurrent Checking and On-Line Embedded Test for Low-Latency Fault Detection in NoC Routers.,testing and diagnosis
+An Interconnection Architecture for Seamless Inter and Intra-Chip Communication Using Wireless Links.,"architecture, wireless, Wireless, power consumption"
+Wear-Aware Adaptive Routing for Networks-on-Chips.,"routing, adaptive, routing，reliability, aging, reliabilty"
+Multi-Layer Test and Diagnosis for Dependable NoCs.,testing and diagnosis
+User Cooperation Network Coding Approach for NoC Performance Improvement.,"performance, multicast"
+Accurate System-level TSV-to-TSV Capacitive Coupling Fault Model for 3D-NoC.,"3D，fault tolerance，wireless, 3d, fault tolerance, tsv, wireless"
+On-Chip Decentralized Routers with Balanced Pipelines for Avoiding Interconnect Bottleneck.,router design
+Asymmetric NoC Architectures for GPU Systems.,NoC for GPU
+Unbiased Regional Congestion Aware Selection Function for NoCs.,

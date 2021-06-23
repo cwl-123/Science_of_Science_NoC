@@ -1,0 +1,1 @@
+Similar to parameters of citation network can be easily obtained in gephi, so not given here.

@@ -1,0 +1,62 @@
+year,title,topic_by_teacher
+2004,Low-Latency Virtual-Channel Routers for On-Chip Networks,"virtual channel, router design"
+2005,"Optimizing replication, communication, and capacity allocation in CMPs",cache
+2005,"Interconnections in multi-core architectures: understanding mechanisms, overheads and scaling",performance evaluation
+2005,Victim Replication - Maximizing Capacity while Hiding Wire Delay in Tiled Chip Multiprocessors.,cache
+2006,A Gracefully Degrading and Energy-Efficient Modular Router Architecture for On-Chip Networks,router design
+2007,A novel dimensionally-decomposed router for on-chip communication in 3D architectures.,"crossbar,3d"
+2007,Flattened Butterfly : A Cost-Efficient Topology for High-Radix Networks,"butterfly,high-radix"
+2007,Rotary router: an efficient architecture for CMP interconnection networks,"router design,ring, adaptive routing"
+2007,Express virtual channels - towards the ideal interconnection fabric.,"express topology,virtual channel"
+2007,Globally-Synchronized Frames for Guaranteed Quality-of-Service in On-Chip Networks,"QoS,multi-hop,virtual channel"
+2008,Polymorphic On-Chip Networks.,"reconfiguration,design space exploration"
+2008,Virtual Circuit Tree Multicasting: A Case for On-Chip Hardware Multicast Support,"multicast,router design"
+2008,iDEAL - Inter-router Dual-Function Energy and Area-Efficient Links for Network-on-Chip (NoC) Architectures.,"link,power consumption,area,flow control"
+2008,MIRA - A Multi-layered On-Chip Interconnect Router Architecture.,"architecture,3d,subnet"
+2009,Indirect adaptive routing on large scale interconnection networks,adaptive routing
+2009,Phastlane: a rapid transit optical routing network,optical
+2009,Application-aware deadlock-free oblivious routing.,"deadlock avoidance,routing"
+2009,Achieving predictable performance through better memory controller placement in many-core CMPs.,"routing,flow control,performance,memory controller"
+2009,A case for bufferless routing in on-chip networks.,"routing,power consumption,bufferless,performance"
+2009,Firefly - illuminating future network-on-chip with nanophotonics.,optical
+2010,An intra-chip free-space optical interconnect,"optical,free space"
+2010,Re-architecting DRAM memory systems with monolithically integrated silicon photonics,"optical,Noc for memory"
+2010,"Silicon-photonic network architectures for scalable, power-efficient multi-chip systems",optical
+2010,Aérgia - exploiting packet latency slack in on-chip networks.,flow control
+2010,Elastic cooperative caching - an autonomous dynamically adaptive memory hierarchy for chip multiprocessors.,"adaptive,cache"
+2011,TLSync: support for multiple fast barriers using on-chip transmission lines,transmission line
+2011,DBAR - an efficient routing algorithm to support multiple concurrent applications in networks-on-chip.,"routing,performance,flow control"
+2011,An abacus turn model for time/space-efficient reconfigurable routing.,"routing,reconfigurable,deadlock avoidance"
+2011,A Case for Globally Shared-Medium On-Chip Interconnect,transmission line
+2011,Kilo-NOC - a heterogeneous network-on-chip architecture for scalability and service guarantees.,"heterogeneous,qos,area,architecture,power consumption,topology"
+2011,The role of optics in future high radix switch design,"optical,high-radix"
+2011,Combining memory and a controller with photonics through 3D-stacking to enable scalable and energy-efficient systems,"optical,noc for memory"
+2011,Architecting on-chip interconnects for stacked 3D STT-RAM caches in CMPs.,"3d,spintronics,cache"
+2011,A case for heterogeneous on-chip interconnects for CMPs.,"heterogeneous,subnet"
+2012,Tolerating process variations in nanophotonic on-chip networks,"process variation,optical"
+2012,A micro-architectural analysis of switched photonic multi-chip interconnects,optical
+2012,Enhancing effective throughput for transmission line-based bus,transmission line
+2013,Catnap - energy proportional multiple network-on-chip.,"power gating,power consumption,performance,flow control"
+2013,The locality-aware adaptive cache coherence protocol.,"protocol,adaptive,last level cache,cache,power consumption,directory"
+2013,SurfNoC - a low latency and provably non-interfering approach to secure networks-on-chip.,security
+2014,SynFull - Synthetic traffic models capturing cache coherent behaviour.,"traffic generator,emulation and simulation/simulator,last level cache,cache"
+2014,SCORPIO - A 36-core research chip demonstrating snoopy coherence on a scalable mesh NoC with in-network ordering.,"mesh,last level cache,cache"
+2014,Unifying on-chip and inter-node switching within the Anton 2 network.,"torus,flow control"
+2015,Coherence protocol for transparent management of scratchpad memories in shared memory manycore architectures.,"hybrid,protocol,last level cache,cache,compiler,power consumption"
+2015,MBus: an ultra-low power interconnect bus for next generation nanopower systems,"ring,power gating"
+2015,Manycore network interfaces for in-memory rack-scale computing.,cache
+2016,Opportunistic Competition Overhead Reduction for Expediting Critical Section in NoC Based CMPs.,flow control
+2017,APPROX-NoC - A Data Approximation Framework for Network-On-Chip Architectures.,"approximate,compression"
+2017,EbDa: A New Theory on Design and Verification of Deadlock-free Interconnection Networks,deadlock avoidance
+2017,There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes,"noc for memory,3D ,topology, arbitor design"
+2017,Footprint - Regulating Routing Adaptiveness in Networks-on-Chip.,"routing,adaptiveness,adaptive,flow control"
+2018,Synchronized Progress in Interconnection Networks (SPIN): A New Theory for Deadlock Freedom,"deadlock avoidance, routing, adaptive"
+2018,FastTrack - Leveraging Heterogeneous FPGA Wires to Design Low-Cost High-Performance Soft NoCs.,"heterogeneous,performance,noc for fpga"
+2018,TCEP: Traffic Consolidation for Energy-Proportional High-Radix Networks,"High-Radix ,flow control"
+2018,Stitch - Fusible Heterogeneous Accelerators Enmeshed with Many-Core Architecture for Wearables.,
+2018,Modular Routing Design for Chiplet-Based Systems.,"routing,noc for sip,deadlock avoidance"
+2019,IntelliNoC - a holistic design framework for energy-efficient and reliable on-chip communication for manycores.,"reliability,ECC,virtual channel"
+2019,Adaptive memory-side last-level GPU caching.,"gpu,last level cache"
+2019,Accelerating distributed reinforcement learning with in-switch computing,"in-network computing,in-switch computing, machine learning "
+2020,An In-Network Architecture for Accelerating Shared-Memory Multiprocessor Collectives,"multicast, in-network computing"
+2020,"Centaur: A Chiplet-based, Hybrid Sparse-Dense Accelerator for Personalized Recommendations","noc for sip,machine learning"

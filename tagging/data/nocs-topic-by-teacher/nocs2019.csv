@@ -1,0 +1,24 @@
+title,topic_by_teacher
+SMART++ - reducing cost and improving efficiency of multi-hop bypass in NoC routers.,router design
+Analyzing networks-on-chip based deep neural networks.,NoC for different applications-->machine learning
+Power efficient photonic network-on-chip for a scalable GPU.,optical，NoC for GPU
+CDMA-based multiple multicast communications on WiNOC for efficient parallel computing.,multicast，wireless
+NoC-based DNN accelerator - a future design paradigm.,NoC for different applications-->machine learning
+Detection and prevention protocol for black hole attack in network-on-chip.,security，black hole attack
+A 7.5-mW 10-Gb/s 16-QAM wireline transceiver with carrier synchronization and threshold calibration for mobile inter-chip communications in 16-nm FinFET.,transmission lines
+UBERNoC - unified buffer power-efficient router for network-on-chip.,router design
+NoC-enabled software/hardware co-design framework for accelerating k-mer counting.,NoC for different applications-->bio/medical
+Direct-modulated optical networks for interposer systems.,"NoC for SiP, optical，NoC for SiP"
+Reinforcement learning based interconnection routing for adaptive traffic optimization.,routing，Reinforcement learning
+Channel mapping strategies for effective protection switching in fail-operational hard real-time NoCs.,NoC for real-time (critical) systems
+Approximate nanophotonic interconnects.,optical
+Flow mapping and data distribution on mesh-based deep learning accelerator.,"NoC for different applications-->machine learning, power consumption, mapping, noc for different applications, machine learning, mesh"
+3D NoCs with active interposer for multi-die systems.,"3d, 3D, routing, NoC for SiP"
+BINDU - deadlock-freedom with one bubble in the network.,"deadlock avoidance, deadlock"
+Energy-efficient and high-performance NoC architecture and mapping solution for deep neural networks.,"noc toplogy, performance, power consumption, topology, mapping, NoC for different applications-->machine learning，NoC toplogy, noc for different applications, machine learning, architecture"
+Distributed SDN architecture for NoC-based many-core SoCs.,topology
+ClusCross - a new topology for silicon interposer-based network-on-chip.,"NoC for SiP, topology，NoC for SiP"
+Ghost routers - energy-efficient asymmetric multicore processors with symmetric NoCs.,"router design, routing, power consumption"
+Multi-carrier spread-spectrum transceiver for WiNoC.,wireless
+Global and semi-global communication on Si-IF.,NoC for SiP
+APEC - improved acknowledgement prioritization through erasure coding in bufferless NoCs.,bufferless

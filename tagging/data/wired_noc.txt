@@ -1,0 +1,254 @@
+NoC							
+	layered research topics						
+		circuit and physical layer					
+			link				
+				link coding			
+				serialization			
+			physical design				
+			emerging devices/transistors				
+				FinFET			
+				Spintronics			
+				drowsy			
+			flip flop				
+			multi-vt				
+		micro-architecture layer					
+			router design				
+				buffer design			
+				virtual channel			
+				arbiter design			
+				crossbar			
+				synchronizer			
+			NI design				
+			testing and diagnosis				
+			debug				
+			transceiver design				
+		networking layer					
+			topology				
+				direct network			
+					mesh		
+					High-Radix		
+					torus		
+					de Bruijn		
+					ring		
+					cube		
+					Spidergon		
+					WK-Recursive Network		
+					Mesh-of-Trees		
+				indirect network			
+					butterfly		
+					tree		
+					clos		
+					Benes		
+				complex network			
+					small world		
+					random		
+					scale free		
+				hybrid			
+					mesh of tree		
+				other			
+				3D			
+					TSV		
+					inductance coupling		
+					capacitance coupling		
+				hierarchical topology			
+					multilayer		
+				express topology			
+				bus			
+				concentration			
+				application-specific			
+			routing				
+				unicast			
+					adaptiveness		
+						deterministic	
+						adaptive	
+					minimal		
+						minimal routing	
+						non-minimal routing	
+					regular topology		
+						irregular topo	
+						regular topo	
+				multicast			
+					tree based		
+					path based		
+					hybrid		
+			flow control				
+				buffered			
+					wormhole		
+						protocol	
+							credit
+							hand shake
+							TDM
+					virtual cut-through		
+				bufferless			
+					circuit switching		
+					bufferless		
+						deflection	
+						drop	
+				point-to-point connections			
+				admission control			
+				TDM			
+				multi-hop			
+				asynchronous			
+							
+			reconfigurable				
+				long link			
+				power gating			
+			power/thermal management				
+				technique			
+					DVFS		
+					V/F island		
+					power gating		
+						fine grain	
+						coarse grain	
+					packet encoding		
+					sprinting		
+			power supply noise				
+			security				
+				attack			
+					HT		
+						DoS	
+							black hole
+						tamper	
+						info leak	
+					covert channel		
+					side channel		
+					Planned Obsolescence		
+					spoofing		
+				defense			
+					Anonymous Routing		
+			modeling				
+				traffic generator			
+				delay model			
+				traffic modeling			
+					runtime traffic prediction		
+				power model			
+			design space exploration				
+				synthesis			
+				placement and floorplanning			
+				topology generation			
+				design flow			
+			deadlock				
+				resolution			
+					deadlockavoidance		
+					recovery		
+				level			
+					routing		
+					protocol		
+			scalability issues				
+			Emulation and Simulation/Simulator				
+				opensource simulator			
+			Verification				
+			Reliabilty				
+				aging			
+				soft error			
+					ECC		
+				fault tolerance			
+					fault detection		
+					backup path		
+			approximate				
+				technique			
+					drop packet		
+					packet compression		
+			monitoring				
+				traffic monitoring			
+			GALS				
+			compression				
+			network isolation				
+			QoS				
+		system layer					
+			NoC for memory				
+				cache			
+					last level cache		
+					directory		
+				memory controller			
+				DMA			
+			NoC for FPGA				
+			NoC for GPU				
+			NoC for accelerator				
+			NoC for many-core				
+				chip implementation			
+			NoC for SiP				
+			NoC for heterogeneous systems				
+			NoC for real-time (critical) systems				
+			NoC for DSP				
+			NoC for Cloud				
+		Application layer					
+			NoC for different applications				
+				machine learning			
+				LDPC decoder			
+				graph			
+				bio/ medical			
+				Automotive			
+				wearable			
+				large-area systems			
+				Cryptography			
+				telecommunication			
+				data flow			
+			mapping				
+				static			
+					architecture		
+						homogeneous	
+						heterogeneous	
+					design space exploration		
+				runtime			
+			migration				
+				Defragmentation			
+			compiler				
+			Design flow				
+			Programming				
+			IP support and intergration				
+			demo system				
+			scheduling				
+			operating system				
+	objective						
+		temperature					
+		power consumption					
+		performance					
+			speedup				
+			execution time				
+			throughput				
+			latency/ delay				
+		reliability					
+			MTTF				
+			aging				
+			BER				
+		fairness					
+		area					
+		energy delay product (EDP)					
+		Process Variation					
+		SNR					
+	communication media						
+		optical					
+			technology				
+				free space			
+				micro ring			
+					WDM		
+			problem to handle				
+				crosstalk			
+		wireless					
+			hybrid wireless and wireline				
+		wireline					
+		transmission lines					
+		bio circuits					
+		carbon nanotube					
+	solution						
+		algorithm					
+			heuristic				
+			control theory				
+			randomized search				
+				genetic algorithm			
+				simulated annealing			
+				ant colony			
+			ILP				
+			dynamic programming				
+			reinforcement learning				
+			game theory				
+			ad hoc				
+			Evolutionary Algorithm				
+		control scheme					
+			centralized				
+			distributed				
+			hierarchical				
+	special type of papers						
+		performance evaluation					
+		survey					

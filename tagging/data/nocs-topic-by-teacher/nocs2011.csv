@@ -1,0 +1,40 @@
+title,topic_by_teacher
+Energy and reliability oriented mapping for regular Networks-on-Chip.,"static, power consumption, mapping, reliability, mapping-->static"
+Two-hop Free-space based optical interconnects for chip multiprocessors.,"free space, link, optical-->free space, optical, power consumption"
+HOPE - Hotspot congestion control for Clos network on chip.,"clos, Clos, flow control"
+Delay analysis of wormhole based heterogeneous NoC.,"link, delay model, performance evaluation, heterogeneous, wormhole"
+NoCs simulation framework for OMNeT++.,emulation and simulation/simulator
+Efficient routing implementation in complex systems-on-chip.,"mapping, static mapping, topology, routing"
+Deadlock-free fine-grained thread migration.,"deadlock-avoidance, avoidance, Deadlock-avoidance，migration, migration, deadlock"
+Reconfiguration of a 3GPP-LTE telecommunication application on a 22-core NoC-based system-on-chip.,NoC for different applications -->telecommunication
+Dynamic power management of voltage-frequency island partitioned Networks-on-Chip using Intel's Single-chip Cloud Computer.,power management-->v/f island
+Online task remapping strategies for fault-tolerant Network-on-Chip multiprocessors.,"runtime, fault tolerance, mapping-->runtime"
+Spidergon STNoC design flow.,design space exploration-->design flow
+Exploring partitioning methods for 3D Networks-on-Chip utilizing adaptive routing model.,
+Interconnect Physical Analyser (IPAA) applied to the design of scalable Network-on-Chip interconnect for Cryptographic accelerators.,"noc for different applications, NoC for different applications -->Cryptography, bus, cryptography"
+Curbing energy cravings in networks - A cross-sectional view across the micro-macro boundary.,power/ thermal management
+Complex network inspired fault-tolerant NoC architectures with wireless links.,"fault tolerance，wireless, fault tolerance, wireless, complex network"
+Link pipelining strategies for an application-specific asynchronous NoC.,"application-specific, link, asynchronous, Link"
+A low-latency adaptive asynchronous interconnection network using bi-modal router nodes.,"router design, adaptive, arbiter design, asynchronous"
+Optimal network architectures for minimizing average distance in k-ary n-dimensional mesh networks.,
+The XMOS XK-XMP-64 development board.,demo system
+Prevention flow-control for low latency torus networks-on-chip.,"flow control，latency/delay,torus"
+A distributed and topology-agnostic approach for on-line NoC testing.,testing and diagnosis
+BLOCON - A Bufferless Photonic Clos network-on-chip architecture.,"bufferless, optical, clos"
+Reducing network-on-chip energy consumption through spatial locality speculation.,"packet encoding, power consumption"
+All-optical wavelength-routed NoC based on a novel hierarchical topology.,"topology-->hierarchical topology, topology, optical, hierarchical, hierarchical topology"
+Cross clock-domain TDM virtual circuits for networks on chips.,flow control
+A vertical bubble flow network using inductive-coupling for 3-D CMPs.,
+Analysis of application-aware on-chip routing under traffic uncertainty.,"routing, performance evaluation"
+Inferring packet dependencies to improve trace based simulation of on-chip networks.,emulation and simulation/simulator
+"FIST - A fast, lightweight, FPGA-friendly packet latency estimator for NoC modeling in full-system simulations.","modeling, noc for fpga, Emulation and Simulation/Simulator, delay model, emulation and simulation/simulator, latency"
+VLSI micro-architectures for high-radix crossbar schedulers.,router design-->crossbar
+"Congestion aware, fault tolerant, and thermally efficient inter-layer communication scheme for hybrid NoC-bus 3D architectures.",
+Challenges and promises of nano and bio communication networks.,bio-circuits
+Automatic verification for deadlock in networks-on-chips with adaptive routing and wormhole switching.,"adaptive routing, link, adaptive, algorithm, verification, wormhole, verification，deadlock, routing, flow control, deadlock"
+DART - A programmable architecture for NoC simulation on FPGAs.,"emulation and simulation/simulator, architecture"
+A software framework for trace analysis targeting multicore platforms design.,modeling
+Dynamic decentralized mapping of tree-structured applications on NoC architectures.,mapping-->runtime
+Exploiting inherent information redundancy to manage transient errors in NoC routing arbitration.,soft error
+A comprehensive Networks-on-Chip simulator for error control explorations.,"simulator, ECC"
+Design of multi-channel wireless NoC to improve on-chip communication capacity!,"link, wireless"

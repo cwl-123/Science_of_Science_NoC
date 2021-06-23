@@ -1,0 +1,21 @@
+title,topic_by_teacher
+Achieving Lightweight Multicast in Asynchronous NoCs Using a Continuous-Time Multi-Way Read Buffer.,"multicast, asynchronous, Multicast"
+Adaptive Manycore Architectures for Big Data Computing.,NoC for architecture-->machine learning 
+On the Accuracy of Stochastic Delay Bound for Network on Chip.,delay model
+Distributed and Dynamic Shared-Buffer Router for High-Performance Interconnect.,router design
+SMART - A Scalable Mapping And Routing Technique for Power-Gating in NoC Routers.,"technique, mapping, power gating, routing"
+Energy and Area Efficient Near Field Inductive Coupling - A Case Study on 3D NoC.,"link, 3D，wireless, power consumption, wireless, area, 3d noc, 3d"
+Synchoricity and NOCs could make Billion Gate Custom Hardware Centric SOCs Affordable.,physical design
+3D NoC-Enabled Heterogeneous Manycore Architectures for Accelerating CNN Training - Performance and Thermal Trade-offs.,"heterogeneous, 3d, performance, noc for architecture, 3d noc, 3D，NoC for architecture-->machine learning, machine learning, temperature"
+JAMS - Jitter-Aware Message Scheduling for FlexRay Automotive Networks.,Automotive
+Rethinking NoCs for Spatial Neural Network Accelerators.,NoC for architecture-->machine learning
+On Runtime Communication- and Thermal-aware Application Mapping in 3D NoC.,
+Addressing Extensibility and Fault Tolerance in CAN-based Automotive Systems.,Automotive
+BiNoCHS - Bimodal Network-on-Chip for CPU-GPU Heterogeneous Systems.,NoC for GPU
+Minimally buffered deflection routing with in-order delivery in a torus.,"ring, deflection, routing, bufferless, torus, buffered"
+XYZ-Randomization using TSVs for Low-Latency Energy Efficient 3D-NoCs.,"power consumption, 3D, 3d, topology"
+Hybrid Automotive In-Vehicle Networks.,Automotive
+Improving the Reliability and Energy-Efficiency of High-Bandwidth Photonic NoC Architectures with Multilevel Signaling.,"clos, power consumption, reliablity, optical, reliability"
+Fairness-Oriented and Location-Aware NUCA for Many-Core SoC.,"NoC for memory-->last level cache, last level cache, noc for memory, fairness"
+A Novel Approach to Reduce Packet Latency Increase Caused by Power Gating in Network-on-Chip.,Power Gating
+System-Level Design of Networks-on-Chip for Heterogeneous Systems-on-Chip.,design space exploration

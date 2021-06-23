@@ -1,0 +1,94 @@
+paper_id,lable,year
+3D NoC,3D NoC,2009
+Bufferless,Bufferless,2010
+Deadlock,Deadlock,2010
+Deadlock-avoidance,Deadlock-avoidance,2011
+Debug,Debug,2008
+Design space Exploration,Design space Exploration,2006
+Design space exploration,Design space exploration,2006
+Emulation and Simulation/Simulator,Emulation and Simulation/Simulator,2004
+GALS,GALS,2007
+Hardware Trojans,Hardware Trojans,2018
+Link,Link,2004
+Multi-Vt,Multi-Vt,2017
+NI design,NI design,2004
+NoC for DSP,NoC for DSP,2007
+NoC for FPGA,NoC for FPGA,2002
+NoC for FPGAs,NoC for FPGAs,2007
+NoC for GPU,NoC for GPU,2013
+NoC for SiP,NoC for SiP,2014
+NoC for accelerator,NoC for accelerator,2013
+NoC for architecture,NoC for architecture,2013
+NoC for different applications,NoC for different applications,2004
+NoC for heterogeneous systems,NoC for heterogeneous systems,2014
+NoC for manycore,NoC for manycore,2007
+NoC for memory,NoC for memory,2002
+NoC for real-time (critical) systems,NoC for real-time (critical) systems,2013
+NoC for real-time systems,NoC for real-time systems,2012
+NoC for realtime (critical) systems,NoC for realtime (critical) systems,2004
+Process Variation,Process Variation,2007
+QoS,QoS,2004
+Reconfiguration,Reconfiguration,2007
+Reliability,Reliability,2004
+Routing,Routing,2003
+Routing Routing,Routing Routing,2004
+Verification,Verification,2005
+Virtual Channel,Virtual Channel,2013
+adaptive,adaptive,2008
+approximate NoC,approximate NoC,2017
+architecture,architecture,2013
+area,area,2008
+asynchronous,asynchronous,2016
+avoidance,avoidance,2011
+bio-circuits,bio-circuits,2011
+bio/ medical,bio/ medical,2014
+chip implementation,chip implementation,2012
+compiler,compiler,2008
+compression,compression,2008
+countermeasure,countermeasure,2018
+deadlock,deadlock,2004
+deadlock avoidance,deadlock avoidance,2018
+deadlock-avoidance,deadlock-avoidance,2011
+debug,debug,2007
+delay,delay,2010
+delay model,delay model,2016
+distributed,distributed,2008
+drowsy,drowsy,2016
+dvfs,dvfs,2008
+emerge technology,emerge technology,2005
+emerging devices/transistors,emerging devices/transistors,2011
+energy delay product,energy delay product,2014
+fault tolerance,fault tolerance,2005
+flow control,flow control,2002
+heuristic,heuristic,2013
+mapping,mapping,2002
+mesh,mesh,2009
+migration,migration,2011
+modeling,modeling,2003
+monitoring,monitoring,2009
+multicast,multicast,2009
+operating system,operating system,2006
+packet encoding,packet encoding,2011
+performance,performance,2005
+physical design,physical design,2002
+power consumption,power consumption,2002
+power gating,power gating,2016
+power management,power management,2011
+power modeling,power modeling,2011
+power supply noise,power supply noise,2013
+power/thermal management,power/thermal management,2007
+reconfigurable,reconfigurable,2009
+reconfiguration,reconfiguration,2005
+router design,router design,2003
+router designs,router designs,2008
+scheduling,scheduling,2004
+security,security,2007
+side-channel attack,side-channel attack,2018
+temperature,temperature,2007
+testing and Diagnosis,testing and Diagnosis,2009
+testing and diagnosis,testing and diagnosis,2005
+throughput,throughput,2010
+topology,topology,2002
+traffic modeling,traffic modeling,2008
+transmission lines,transmission lines,2019
+virtual cut-through,virtual cut-through,2020

@@ -1,0 +1,310 @@
+year,title,keyword
+2002,Networks on Chip - A New Paradigm for Systems on Chip Design.,Design space exploration
+2002,Managing Power Consumption in Networks on Chip.,power consumption
+2002,Communication Mechanisms for Parallel DSP Systems on a Chip,NoC for DSP
+2002,"An interconnect-aware methodology for analog and mixed signal design, based on high bandwidth (over 40 GHz) on-chip transmission line approach",transmission line
+2002,Networks on Silicon: Combining Best-Effort and Guaranteed Services,flow control
+2003,Packetized On-Chip Interconnect Communication Analysis for MPSoC,power model
+2003,On-Chip Stochastic Communication,fault tolerance
+2003,"SPIN: A Scalable, Packet Switched, On-Chip Micro-Network",NoC for many-core
+2003,Scheduling and Timing Analysis of HW/SW On-Chip Communication in MP SoC Design,scheduling
+2003,Communication Centric Architectures for Turbo-Decoding on Embedded Multiprocessors,telecommunication
+2003,Exploiting the Routing Flexibility for Energy/Performance Aware Mapping of Regular NoC Architectures.,"Mapping,routing,power consumption"
+2003,Load Distribution with the Proximity Congestion Awareness in a Network on Chip.,"crossbar, flow control"
+2003,Trade Offs in the Design of a Router with Both Guaranteed and Best-Effort Services for Networks on Chip.,flow control
+2004,Communication analysis for system-on-chip design,modeling
+2004,Design and Behavioral Modeling Tools for Optical Network-on-Chip,"optical,modeling"
+2004,A mapping strategy for resource-efficient network processing on multiprocessor SoCs,mapping
+2004,A Case Study in Networks-on-Chip Design for Embedded Video,multimedia
+2004,Bandwidth-Constrained Mapping of Cores onto NoC Architectures,mapping
+2004,Cost-Performance Trade-Offs in Networks on Chip: A Simulation-Based Approach,"Emulation and Simulation/Simulator, modeling"
+2004,Guaranteed Bandwidth Using Looped Containers in Temporally Disjoint Networks within the Nostrum Network on Chip,flow control
+2004,Analyzing On-Chip Communication in a MPSoC Environment,"modeling, Emulation and Simulation/Simulator"
+2004,×pipesCompiler: A Tool for Instantiating Application Specific Networks on Chip,"application-specific, synthesis"
+2004,Supporting cache coherence in heterogeneous multiprocessor systems,cache
+2004,A System Level Processor/Communication Co-Exploration Methodology for Multi-Processor System-on-Chip Platform,design space exploration
+2004,A Power and Performance Model for Network-on-Chip Architectures,modeling
+2004,Using a Communication Architecture Specification in an Application-Driven Retargetable Prototyping Platform for Multiprocessing,"modeling,Emulation and Simulation/Simulator"
+2004,Modeling Shared Resource Contention Using a Hybrid Simulation/Analytical Approach,"modeling,Emulation and Simulation/Simulator"
+2004,Unified Component Integration Flow for Multi-Processor SoC Design and Validation,synthesis
+2004,An Interconnect Channel Design Methodology for High Performance Integrated Circuits,link
+2004,"An Efficient On-Chip Network Interface Offering Guaranteed Services, Shared-Memory Abstraction, and Flexible Network Configuration",NI design
+2004,Energy-Aware Communication and Task Scheduling for Network-on-Chip Architectures under Real-Time Constraints,"scheduling,NoC for real-time (critical) systems"
+2005,Test Time Reduction Reusing Multiple Processors in a Network-on-Chip Based Architecture.,testing and diagnosis
+2005,A Router Architecture for Connection-Oriented Service Guarantees in the MANGO Clockless Network-on-Chip.,router design
+2005,A Complete Network-On-Chip Emulation Framework.,Emulation and Simulation/Simulator
+2005,A Design Flow for Application-Specific Networks on Chip with Guaranteed Performance to Accelerate SOC Design and Verification.,"Verification, Design space exploration"
+2005,Hotspot Prevention Through Runtime Reconfiguration in Network-On-Chip.,reconfiguration
+2005,Design of a Virtual Component Neutral Network-on-Chip Transaction Layer.,
+2005,Energy- and Performance-Driven NoC Communication Architecture Synthesis Using a Decomposition Approach.,"performance,synthesis,power consumption"
+2005,Centralized Run-Time Resource Management in a Network-on-Chip Containing Reconfigurable Hardware Tiles.,reconfiguration
+2005,xpipes Lite - A Synthesis Oriented Design Library For Networks on Chips.,synthesis
+2005,Predictable Embedding of Large Data Structures in Multiprocessor Networks-on-Chip.,
+2005,A Quality-of-Service Mechanism for Interconnection Networks in System-on-Chips,QoS
+2005,UML 2 and SysML - An Approach to Deal with Complexity in SoC/NoC Design.,modeling
+2005,Leakage-Aware Interconnect for On-Chip Network.,link
+2005,A Technology-Aware and Energy-Oriented Topology Exploration for On-Chip Networks.,"topology,power consumption, design space exploration"
+2005,Exploring NoC Mapping Strategies - An Energy and Timing Aware Technique.,"mapping,power consumption"
+2005,MultiNoC - A Multiprocessing System Enabled by a Network on Chip.,"reliability,routing"
+2005,A Network Traffic Generator Model for Fast Network-on-Chip Simulation.,traffic generator
+2006,Networks on chips for high-end consumer-electronics TV system architectures,consumer-electronics
+2006,"Simulation and analysis of network on chip architectures: ring, spidergon and 2D mesh","Emulation and Simulation/Simulator,topology, "
+2006,GALS networks on chip: a new solution for asynchronous delay-insensitive links,asynchronous
+2006,Flexible MPSoC platform with fast interconnect exploration for optimal system performance for a specific application,"Emulation and Simulation/Simulator, Topology"
+2006,STAX: statistical crosstalk target set compaction,link
+2006,A fast-lock mixed-mode DLL with wide-range operation and multiphase outputs,link
+2007,"Joint consideration of fault-tolerance, energy-efficiency and performance in on-chip networks","fault tolerance,power/thermal management"
+2007,Hard- and software modularity of the NOVA MPSoC platform,NoC for many-core
+2007,"Capturing the interaction of the communication, memory and I/O subsystems in memory-centric industrial MPSoC platforms",NoC for memory
+2007,Butterfly and benes-based on-chip communication networks for multiprocessor turbo decoding,"topology, telecommunication"
+2007,Remote testing and diagnosis of System-on-Chips using network management frameworks,testing and diagnosis
+2007,"A scalable, timing-safe, network-on-chip architecture with an integrated clock distribution method.",timing
+2007,Routing table minimization for irregular mesh NoCs.,"mesh,routing"
+2007,Congestion-controlled best-effort communication for networks-on-chip.,flow control
+2007,System level assessment of an optical NoC in an MPSoC platform.,optical
+2007,Undisrupted quality-of-service during reconfiguration of multiple applications in networks on chip.,"reconfiguration,QoS"
+2007,Using the inter- and intra-switch regularity in NoC switch testing.,testing and diagnosis
+2007,Analytical router modeling for networks-on-chip performance analysis.,modeling
+2007,Toward a scalable test methodology for 2D-mesh Network-on-Chips.,testing and diagnosis
+2007,Systematic comparison between the asynchronous and the multi-synchronous implementations of a network on chip architecture.,asynchronous
+2007,A multi-core debug platform for NoC-based systems.,debug
+2008,User-Aware Dynamic Task Allocation in Networks-on-Chip.,"mapping, runtime"
+2008,Design of a HW/SW Communication Infrastructure for a Heterogeneous Reconfigurable Processor.,"Reconfigurable,chip implementation"
+2008,Memory-aware NoC Exploration and Design,"NoC for memory,design space exploration"
+2008,Minimizing Virtual Channel Buffer for Routers in On-chip Communication Architectures.,Virtual Channel
+2008,De Bruijn Graph as a Low Latency Scalable Architecture for Energy Efficient Massive NoCs.,"topology, De Bruijn"
+2008,An Open-Loop Flow Control Scheme Based on the Accurate Global Information of On-Chip Communication.,Flow Control
+2008,Developing Mesochronous Synchronizers to Enable 3D NoCs.,"3D,link"
+2008,BARP-A Dynamic Routing Protocol for Balanced Distribution of Traffic in NoCs.,routing
+2008,Comparison of memory write policies for NoC based Multicore Cache Coherent Systems.,cache
+2008,Serialized Asynchronous Links for NoC.,"asynchronous,link"
+2008,Memory Technology for Extended Large-Scale Integration in Future Electronics Applications.,"3D, NoC for Memory"
+2008,Variation tolerant NoC design by means of self-calibrating links.,link
+2008,Multicast Parallel Pipeline Router Architecture for Network-on-Chip.,Multicast
+2008,In-band Cross-Trigger Event Transmission for Transaction-Based Debug.,debug
+2008,Zero-Efficient Buffer Design for Reliable Network-on-Chip in Tiled Chip-Multi-Processor.,"reliability, buffer"
+2008,Re-Examining the Use of Network-on-Chip as Test Access Mechanism.,testing and diagnosis
+2008,Video Processing Requirements on SoC Infrastructures.,multimedia
+2009,SCORES: A scalable and parametric streams-based communication architecture for modular reconfigurable systems,NoC for FPGA
+2009,User-centric design space exploration for heterogeneous Network-on-Chip platforms.,design space exploration
+2009,aEqualized - A novel routing algorithm for the Spidergon Network On Chip.,"routing, Spidergon"
+2009,A link arbitration scheme for quality of service in a latency-optimized network-on-chip.,flow control
+2009,Priority based forced requeue to reduce worst-case latencies for bursty traffic,flow control
+2009,An efficent dynamic multicast routing protocol for distributing traffic in NOCs.,"multicast,routing"
+2009,Configurable links for runtime adaptive on-chip communication.,link
+2009,Combined system synthesis and communication architecture exploration for MPSoCs,"design space exploration,topology"
+2009,An accurate interconnect thermal model using equivalent transmission line circuit,link
+2009,A highly resilient routing algorithm for fault-tolerant NoCs.,"fault tolerance,routing"
+2009,MPSoCs run-time monitoring through Networks-on-Chip.,monitoring
+2009,A high-level debug environment for communication-centric debug.,debug
+2009,A low-power fat tree-based optical Network-On-Chip for multiprocessor system-on-chip.,"tree,power consumption,optical"
+2009,Aelite - A flit-synchronous Network on Chip with composable and predictable services.,flow control
+2009,On-chip communication architecture exploration for processor-pool-based MPSoC.,design space exploration
+2009,In-network reorder buffer to improve overall NoC performance while resolving the in-order requirement problem.,flow control
+2009,ORION 2.0 - A fast and accurate NoC power and area model for early-stage design space exploration.,"modeling, design space exploration"
+2009,A monitor interconnect and support subsystem for multicore processors.,monitoring
+2009,Latency criticality aware on-chip communication.,noc for real-time (critical) systems
+2009,Flow regulation for on-chip communication.,flow  control
+2009,A hybrid packet-circuit switched on-chip network based on SDM.,flow  control
+2009,Assessing fat-tree topologies for regular network-on-chip design under nanoscale technology constraints.,"tree,topology"
+2009,Synthesis of low-overhead configurable source routing tables for network interfaces.,"synthesis,routing"
+2009,Priority-based packet communication on a bus-shaped structure for FPGA-systems.,NoC for FPGA
+2009,Group-caching for NoC based multicore cache coherent systems.,cache
+2009,SunFloor 3D - A tool for Networks On Chip topology synthesis for 3D systems on chips.,"synthesis,topology,3d"
+2010,Leveraging application-level requirements in the design of a NoC for a 4G SoC - a case study.,telecommunication
+2010,Supporting Distributed Shared Memory on multi-core Network-on-Chips using a dual microcoded controller,NoC for memory
+2010,PM-COSYN - PE and memory co-synthesis for MPSoCs.,
+2010,PhoenixSim: A simulator for physical-layer analysis of chip-scale photonic interconnection networks,"optical, Emulation and Simulation/Simulator"
+2010,An analytical method for evaluating Network-on-Chip performance.,modeling
+2010,Accelerating Lightpath setup via broadcasting in binary-tree waveguide in Optical NoCs.,Optical
+2010,A methodology for the characterization of process variation in NoC links.,"link,process variation"
+2010,Optimal regulation of traffic flows in networks-on-chip,flow control
+2010,Heterogeneous vs homogeneous MPSoC approaches for a Mobile LTE modem.,telecommunication
+2010,"MB-LITE - A robust, light-weight soft-core implementation of the MicroBlaze architecture.",NoC for many-core
+2010,SigNet - Network-on-chip filtering for coarse vector directories.,"cache,directory"
+2010,Exploiting multiple switch libraries in topology synthesis of on-chip interconnection network.,"topology,synthesis"
+2010,Design space exploration of a mesochronous link for cost-effective and flexible GALS NOCs.,"gals,design space exploration,architecture,link"
+2010,An efficient distributed memory interface for many-core platform with 3D stacked DRAM.,NoC for memory
+2010,Cost-effective slack allocation for lifetime improvement in NoC-based MPSoCs.,reliability
+2010,An error-correcting unordered code and hardware support for robust asynchronous global communication,"asynchronous, ECC"
+2010,Error resilience of intra-die and inter-die communication with 3D spidergon STNoC.,"3D,ECC"
+2010,A method to remove deadlocks in Networks-on-Chips with Wormhole flow control.,"deadlock avoidance,flow control"
+2010,Feedback control for providing QoS in NoC based multicores.,QoS
+2010,Multicore soft error rate stabilization using adaptive dual modular redundancy.,ECC
+2010,Formal specification of networks-on-chips - deadlock and evacuation.,"deadlock avoidance, routing"
+2010,MEDEA - a hybrid shared-memory/message-passing multiprocessor NoC-based architecture.,NoC for memory
+2010,Performance-asymmetry-aware topology virtualization for defect-tolerant NoC-based many-core processors.,"performance,topology,fault tolerance"
+2010,Learning-based adaptation to applications and environments in a reconfigurable Network-on-Chip.,reconfiguration
+2010,A fully-asynchronous low-power framework for GALS NoC integration.,"gals,asynchronous,power consumption"
+2011,Run-time deadlock detection in networks-on-chip using coupled transitive closure networks.,deadlock recovery
+2011,Evaluating energy consumption of homogeneous MPSoCs using spare tiles.,"homogeneous,power consumption"
+2011,Optical Ring Network-on-Chip (ORNoC) - Architecture and design methodology.,"optical, ring, "
+2011,Counterexample-guided SMT-driven optimal buffer sizing.,buffer
+2011,Supporting non-contiguous processor allocation in mesh-based CMPs using virtual point-to-point links,"mapping, runtime"
+2011,Achieving composability in NoC-based MPSoCs through QoS management at software level.,QoS
+2011,FARM - Fault-aware resource management in NoC-based multiprocessor platforms.,fault tolerance
+2011,3D Embedded multi-core - Some perspectives.,3d
+2011,Multi-granularity thermal evaluation of 3D MPSoC architectures.,"temperature,3d"
+2011,A 3D reconfigurable platform for 4G telecom applications.,"3D, telecommunication"
+2011,Improving the efficiency of a hardware transactional memory on an NoC-based MPSoC.,NoC for memory
+2011,VANDAL: A tool for the design specification of nanophotonic networks,optical
+2011,Fast and accurate transaction-level model of a wormhole network-on-chip with priority preemptive virtual channel arbitration.,
+2011,Interconnect-fault-resilient delay-insensitive asynchronous communication link based on current-flow monitoring.,fault tolerance
+2011,NoC-MPU - A secure architecture for flexible co-hosting on shared memory MPSoCs.,"security, noc for memory"
+2011,An FPGA bridge preserving traffic quality of service for on-chip network-based systems.,QoS
+2011,Multi-objective Tabu Search based topology generation technique for application-specific Network-on-Chip architectures.,"topology generation,topology,application-specific"
+2011,Floorplanning exploration and performance evaluation of a new Network-on-Chip.,"performance,performance evaluation,mesh,placement and floorplanning"
+2011,Exploiting Network-on-Chip structural redundancy for a cooperative and scalable built-in self-test architecture.,testing and diagnosis
+2011,ReliNoC - A reliable network for priority-based on-chip communication.,"link,reliability"
+2011,Guaranteed service virtual channel allocation in NoCs for run-time task scheduling.,"flow control, virtual channel, scheduling"
+2012,AFRA - A low cost high performance reliable routing for 3D mesh NoCs.,"performance,reliability,routing,mesh,3d"
+2012,An MILP-based aging-aware routing algorithm for NoCs.,"reliabilty,aging,routing"
+2012,Congestion-aware scheduling for NoC-based reconfigurable systems.,"reconfiguration, flow control"
+2012,A Network-on-Chip-based turbo/LDPC decoder architecture.,telecommunication
+2012,Dynamic Directories - A mechanism for reducing on-chip interconnect power in multicores.,directory
+2012,Dynamic-priority arbiter and multiplexer soft macros for on-chip networks switches.,"flow control,router design,arbiter design"
+2012,CATRA- congestion aware trapezoid-based routing algorithm for on-chip networks.,"flow control,routing"
+2012,A clustering-based scheme for concurrent trace in debugging NoC-based multicore systems.,debug
+2012,NOCEVE - Network on chip emulation and verification environment.,"Emulation and Simulation/Simulator, verification"
+2012,Static scheduling of a Time-Triggered Network-on-Chip based on SMT solving.,flow control
+2012,Worst-case delay analysis of Variable Bit-Rate flows in network-on-chip with aggregate scheduling.,modeling
+2012,Parallel probing - Dynamic and constant time setup procedure in circuit switching NoC.,"flow control, circuit switching"
+2012,"A fast, source-synchronous ring-based network-on-chip design.",ring
+2012,A flit-level speedup scheme for network-on-chips using self-reconfigurable bi-directional channels.,"link,reconfigurable,speedup"
+2012,Test pin count reduction for NoC-based Test delivery in multicore SOCs.,testing and diagnosis
+2012,Fast and lightweight support for nested parallelism on cluster-based embedded many-cores.,noc for memory
+2012,"A TDM NoC supporting QoS, multicast, and fast connection set-up.","flow control, multicast"
+2013,An efficient network on-chip architecture based on isolating local and non-local communications,subnet
+2013,Proactive aging management in heterogeneous NoCs through a criticality-driven routing approach.,"reliabilty,aging,heterogeneous,routing"
+2013,Modeling and analysis of fault-tolerant distributed memories for networks-on-chip.,"modeling,fault tolerance,NoC for memory"
+2013,Communication and migration energy aware design space exploration for multicore systems with intermittent faults,"mapping, migration,fault tolerance"
+2013,SMART - a single-cycle reconfigurable NoC for SoC applications.,reconfiguration
+2013,CARS - congestion-aware request scheduler for network interfaces in NoC-based manycore systems.,"flow control,NI design"
+2013,Reliability-driven task mapping for lifetime extension of networks-on-chip based multiprocessor systems.,"mapping,reliability,mttf"
+2013,Switch folding - network-on-chip routers with time-multiplexed output ports.,"router design, flow control"
+2013,3D integration for power-efficient computing.,"cache,3d,power consumption"
+2013,Fault-tolerant routing algorithm for 3D NoC using Hamiltonian path strategy.,"routing, fault tolerance,3D"
+2013,A transition-signaling bundled data NoC switch architecture for cost-effective GALS multicore systems.,"asynchronous, router design"
+2013,Exploring resource mapping policies for dynamic clustering on NoC-based MPSoCs.,design space exploration
+2013,DeBAR - deflection based adaptive router with minimal buffering.,"routing, adaptive"
+2013,Enhanced metamodeling techniques for high-dimensional IC design estimation problems.,modeling
+2013,Development of low power many-core SoC for multimedia applications.,multimedia
+2013,Exploring topologies for source-synchronous ring-based network-on-chip.,topology
+2013,40.4fJ/bit/mm low-swing on-chip signaling with self-resetting logic repeaters embedded within a mesh NoC in 45nm SOI CMOS.,link
+2013,Hybrid interconnect design for heterogeneous hardware accelerators.,NoC for accelerator
+2013,Contrasting wavelength-routed optical NoC topologies for power-efficient 3D-stacked multicore processors using physical-layer analysis.,"optical, 3D, topology"
+2013,An area-efficient network interface for a TDM-based network-on-chip.,"flow control, NI design"
+2013,A spectral clustering approach to application-specific network-on-chip synthesis.,synthesis
+2013,Topology-agnostic fault-tolerant NoC routing method.,"routing, fault tolerance"
+2013,Energy-efficient multicore chip design through cross-layer approach.,"dvfs,power consumption"
+2013,"Advances in asynchronous logic - from principles to GALS & NoC, recent industry applications, and commercial CAD tools.",
+2013,Fast and optimized task allocation method for low vertical link density 3-dimensional networks-on-chip based many core systems.,"3D, mapping"
+2013,Sensor-wise methodology to face NBTI stress of NoC buffers.,"aging,buffer"
+2013,SVR-NoC - a performance analysis tool for network-on-chips using learning-based support vector regression model.,modeling
+2014,Improving hamiltonian-based routing methods for on-chip networks - A turn model approach.,"routing,multicast, deadlock avoidance"
+2014,Chameleon - Channel efficient Optical Network-on-Chip.,optical
+2014,A novel model for system-level decision making with combined ASP and SMT solving.,"routing,flow control, noc for memory"
+2014,DCM - An IP for the autonomous control of optical and electrical reconfigurable NoCs.,"optical,reconfiguration"
+2014,Time-critical computing on a single-chip massively parallel processor.,chip implementation
+2014,Leveraging on-chip networks for efficient prediction on multicore coherence.,noc for memory
+2014,Minimally buffered single-cycle deflection router.,"router design,bufferless "
+2014,Hybrid wire-surface wave architecture for one-to-many communication in networks-on-chip.,wireless
+2014,Coupling TDM NoC and DRAM controller for cost and performance optimization of real-time systems.,"area,performance,router design,noc for real-time (critical) systems,tdm,noc for memory"
+2014,Brisk and limited-impact NoC routing reconfiguration.,"reconfigurable,routing"
+2014,Parallel probe based dynamic connection setup in TDM NoCs.,TDM
+2014,Low-latency wireless 3D NoCs via randomized shortcut chips.,"random,3d,wireless"
+2014,An adaptive transmitting power technique for energy efficient mm-wave wireless NoCs.,wireless
+2014,A tree arbiter cell for high speed resource sharing in asynchronous environments.,"asynchronous,arbiter design"
+2014,Failure analysis of a network-on-chip for real-time mixed-critical systems.,"fault tolerance, modeling,NoC for real-time (critical) systems"
+2014,ALLARM - Optimizing sparse directories for thread-local data.,"noc for memory,directory"
+2014,Dynamic construction of circuits for reactive traffic in homogeneous CMPs.,flow control
+2014,Efficient simulation and modelling of non-rectangular NoC topologies.,"Emulation and Simulation/Simulator,topology"
+2014,Analysis and evaluation of per-flow delay bound for multiplexing models,modeling
+2014,Assessing the energy break-even point between an optical NoC architecture and an aggressive electronic baseline.,"architecture,topology,power consumption,optical"
+2014,From Simulink to NoC-based MPSoC on FPGA.,noc for FPGA
+2014,ElastiStore - An elastic buffer architecture for Network-on-Chip routers.,"router design, buffer"
+2014,Application mapping for express channel-based networks-on-chip.,"mapping,express topology"
+2014,Performance evaluation of wireless NoCs in presence of irregular network routing strategies.,"performance,performance evaluation,routing,wireless"
+2015,Synergistic use of multiple on-chip networks for ultra-low latency and scalable distributed routing reconfiguration.,"routing, reconfiguration, subnet"
+2015,d2-LBDR - distance-driven routing to handle permanent failures in 2D mesh NOCs.,"link,mesh,routing,fault tolerance"
+2015,A cyber-physical systems approach to personalized medicine - challenges and opportunities for noc-based multicore platforms.,
+2015,Malleable NoC - dark silicon inspired adaptable Network-on-Chip.,"DVFS, router design"
+2015,A closed loop transmitting power self-calibration scheme for energy efficient WiNoC architectures,wireless
+2015,Rate-based vs delay-based control for DVFS in NoC.,dvfs
+2015,Enabling vertical wormhole switching in 3D NoC-bus hybrid systems.,"flow control,bus,3d,hybrid,wormhole"
+2015,Coherent crosstalk noise analyses in ring-based optical interconnects,"ring, optical, corsstalk"
+2015,Thermal aware design method for VCSEL-based on-chip optical interconnect.,"temperature,optical"
+2015,A packet-switched interconnect for many-core systems with BE and RT service.,"NoC for real-time (critical) systems, flow control, "
+2015,NoC-enabled multicore architectures for stochastic analysis of biomolecular reactions.,bio/ medical 
+2015,On-chip network-enabled many-core architectures for computational biology applications.,bio/ medical 
+2015,Mixed wire and surface-wave communication fabrics for decentralized on-chip multicasting.,"multicast,wireless"
+2015,A hybrid packet/circuit-switched router to accelerate memory access in NoC-based chip multiprocessors.,"flow control, noc for memory"
+2015,PhaseNoC - TDM scheduling at the virtual-channel level for efficient network traffic isolation.,"TDM, virtual channel"
+2015,Worst-case communication time analysis of networks-on-chip with shared virtual channels.,"modeling, virtual channel"
+2015,Coherence based message prediction for optically interconnected chip multiprocessors.,"noc for memory, optical"
+2015,Adaptively tolerate power-gating-induced power/ground noise under process variations.,"process variation,power gating"
+2015,TAPP - temperature-aware application mapping for NoC-based many-core processors.,"temperature,mapping"
+2016,Correct runtime operation for NoCs through adaptive-region protection.,
+2016,PRADA - Combating voltage noise in the NoC power supply through flow-control and routing algorithms.,"flow control, routing"
+2016,Packet security with path sensitization for NoCs.,"security,hardware trojans"
+2016,Energy efficient transceiver in wireless Network on Chip architectures.,"power consumption,wireless"
+2016,Cross-layer floorplan optimization for silicon photonic NoCs in many-core systems.,"temperature,optical,placement and floorplanning"
+2016,Reliability and performance trade-offs for 3D NoC-enabled multicore chips.,"performance,tsv,reliability,mttf,3d"
+2016,ADVOCAT: Automated deadlock verification for on-chip cache coherence and interconnects,"noc for memory, routing, topology,arbiter design"
+2016,OLITS - An Ohm's Law-like traffic splitting model based on congestion prediction.,"flow control,modeling"
+2016,PhoNoCMap - An application mapping tool for photonic networks-on-chip.,optical
+2016,Testable design of repeaterless low swing on-chip interconnect,"testing and diagnosis, link"
+2016,Modeling fabrication non-uniformity in chip-scale silicon photonic interconnects,optical
+2016,"Machine Learned Machines - Adaptive co-optimization of caches, cores, and On-chip Network.","cache,DVFS"
+2016,Slack-based resource arbitration for real-time Networks-on-Chip.,arbiter design
+2016,Adaptive multi-voltage scaling in wireless NoC for high performance low power applications.,"performance,wireless,dvfs,power consumption"
+2016,Providing formal latency guarantees for ARQ-based protocols in Networks-on-Chip.,"dma,performance evaluation"
+2016,CrossOver - Clock domain crossing under virtual-channel flow control.,"flow control,credit,link"
+2016,Improving performance guarantees in wormhole mesh NoC designs.,"mesh, wormhole"
+2016,Fault-tolerant 3-D network-on-chip design using dynamic link sharing.,"fault tolerance,link,3d"
+2016,Memory-access aware DVFS for network-on-chip in CMPs.,"noc for memory,dvfs"
+2017,Charka - A reliability-aware test scheme for diagnosis of channel shorts beyond mesh NoCs.,"testing and diagnosis,mesh,link,reliability"
+2017,Robust TSV-based 3D NoC design to counteract electromigration and crosstalk noise.,"tsv,crosstalk,3d"
+2017,Machine learning enabled power-aware Network-on-Chip design.,"link,power gating"
+2017,Performance evaluation and design trade-offs for wireless-enabled SMART NoC.,wireless
+2017,Online monitoring and adaptive routing for aging mitigation in NoCs.,"reliability,routing"
+2017,An asynchronous NoC router in a 14nm FinFET library - Comparison to an industrial synchronous counterpart.,"asynchronous,router design"
+2017,Automatic place-and-route of emerging LED-driven wires within a monolithically-integrated CMOS-III-V process.,placement and floorplanning
+2017,Performance and energy aware wavelength allocation on ring-based WDM 3D optical NoC.,"3D, ring, optical"
+2017,Reliability assessment of fault tolerant routing algorithms in networks-on-chip - An analytic approach.,"reliability,routing"
+2017,Effective cache bank placement for GPUs.,"noc for memory, noc for gpu"
+2017,Pre-assembly testing of interconnects in embedded multi-die interconnect bridge (EMIB) dies,"noc for Sip, testing and diagnosis"
+2017,eBSP - Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III processor.,flow control
+2017,RSON: An inter/intra-chip silicon photonic network for rack-scale computing systems.,optical
+2017,Compact modeling and circuit-level simulation of silicon nanophotonic interconnects.,optical
+2017,Real-time communication analysis for Networks-on-Chip with backpressure.,"noc for real-time (critical) systems,performance evaluation"
+2018,A soft-error resilient route computation unit for 3D Networks-on-Chips.,"ECC, routing"
+2018,Buffer-aware bounds to multi-point progressive blocking in priority-preemptive NoCs.,"buffer,modeling, flow control"
+2018,High performance collective communication-aware 3D Network-on-Chip architectures.,"multicast, 3D"
+2018,Task scheduling for many-cores with S-NUCA caches.,"performance,last level cache,scheduling"
+2018,Port call path sensitive conflict analysis for instance-aware parallel SystemC simulation.,"performance evaluation,link,emulation and simulation/simulator"
+2018,One-way shared memory.,noc for memory
+2018,Energy-performance design exploration of a low-power microprogrammed deep-learning accelerator.,noc for machine learning
+2018,A WCET-aware parallel programming model for predictability enhanced multi-core architectures.,modeling
+2018,Earthquake - A NoC-based optimized differential cache-collision attack for MPSoCs.,"cache,attack"
+2018,Design of a time-predictable multicore processor - The T-CREST project.,modeling
+2018,Prometheus - Processing-in-memory heterogeneous architecture design from a multi-layer network theoretic strategy.,"noc for memory,processing-in-memory"
+2018,SparseNN - An energy-efficient neural network accelerator exploiting input and output sparsity.,noc for machine learning
+2019,Power and Performance Optimal NoC Design for CPU-GPU Architecture Using Formal Models.,"noc for gpu, virtual channel, buffer"
+2019,Real-time Detection and Localization of DoS Attacks in NoC based SoCs.,
+2019,A Deterministic-Path Routing Algorithm for Tolerating Many Faults on Wafer-Level NoC.,"routing, fault tolerance, reconfiguration"
+2019,Thermal Sensing Using Micro-ring Resonators in Optical Network-on-Chip.,"temperature, optical"
+2019,WAVES - Wavelength Selection for Power-Efficient 2.5D-Integrated Photonic NoCs.,"noc for SiP, optical"
+2019,CoDAPT: A Concurrent Data And Power Transceiver for Fully Wireless 3D-ICs,"3D,wireless"
+2019,REGENT - A Heterogeneous ReRAM/GPU-based Architecture Enabled by NoC for Training CNNs.,machine learning
+2019,"High-performance, Energy-efficient, Fault-tolerant Network-on-Chip Design Using Reinforcement Learnin.",fault tolerance
+2019,Advance Virtual Channel Reservation.,Virtual Channel
+2019,ACDC - An Accuracy- and Congestion-aware Dynamic Traffic Control Method for Networks-on-Chip.,approximate
+2020,Lightweight Anonymous Routing in NoC based SoCs.,"security, routing"
+2020,GRAMARCH - A GPU-ReRAM based Heterogeneous Architecture for Neural Image Segmentation.,"noc for gpu,noc for memory, machine learning"
+2020,AstroByte - Multi-FPGA Architecture for Accelerated Simulations of Spiking Astrocyte Neural Networks.,machine learning
+2020,Lightweight Thermal Monitoring in Optical Networks-on-Chip via Router Reuse.,"optical, monitoring, temperature"
+2020,"Power, Performance, and Thermal Trade-offs in M3D-enabled Manycore Chips.","temperature,TSV,3d"
+2020,POPSTAR - a Robust Modular Optical NoC Architecture for Chiplet-based 3D Integrated Systems.,"Optical,noc for sip, 3d"
+2020,An Approximate Multiplane Network-on-Chip.,"subnet, approximate"
+2020,Shenjing - A low power reconfigurable neuromorphic accelerator with partial-sum and spike networks-on-chip.,"reconfiguration, machine learning"

@@ -1,0 +1,23 @@
+title,topic_by_teacher
+"SNet, a flexible, scalable network paradigm for manycore architectures.",adaptive routing
+3D logarithmic interconnect - Stacking multiple L1 memory dies over multi-core clusters.,NoC for memory，3D，TSV
+Backward probing deadlock detection for networks-on-chip.,deadlock recovery
+Leveraging the geometric properties of on-chip transmission line structures to improve interconnect performance - A case study in 65nm.,transmission lines
+Energy-efficient adaptive wireless NoCs architecture.,"power consumption, wireless, adaptive, architecture"
+Minimal-path fault-tolerant approach using connection-retaining structure in Networks-on-Chip.,"minimal, fault tolerance, minimal routing"
+Scalable parallel simulation of networks on chip.,emulation and simulation/simulator
+An accurate and scalable analytic model for round-robin arbitration in network-on-chip.,delay model
+Accelerating atomic operations on GPGPUs.,NoC for GPU
+"Centralized buffer router - A low latency, low power router for high radix NOCs.",router design
+Headfirst sliding routing - A time-based routing scheme for bus-NoC hybrid 3-D architecture.,"hybrid, bus, routing, routing， 3D, 3d, architecture"
+A deadlock-free routing algorithm requiring no virtual channel on 3D-NoCs with partial vertical connections.,"routing, 3D"
+An NoC and cache hierarchy substrate to address effective virtualization and fault-tolerance.,fault tolerance，NoC for memory-->last level cache
+Dynamic traffic distribution among hierarchy levels in hierarchical Networks-on-Chip (NoCs).,topology-->hierarchical
+Quadrisection-based task mapping on many-core processors for energy-efficient on-chip communication.,"application mapping, power consumption"
+Physical planning for the architectural exploration of large-scale chip multiprocessors.,floorplanning
+GCA - Global congestion awareness for load balance in Networks-on-Chip.,"flow control, routing"
+A greedy approach for latency-bounded deadlock-free routing path allocation for application-specific NoCs.,"deadlock avoidance, routing algorithm, avoidance, routing, application-specific, deadlock"
+On self-tuning networks-on-chip for dynamic network-flow dominance adaptation.,
+Per-flow delay bound analysis based on a formalized microarchitectural model.,"flow control, credit, performance evaluation, delay model"
+A speculative arbiter design to enable high-frequency many-VC router in NoCs.,arbiter design
+PROBE - Prediction-based optical bandwidth scaling for energy-efficient NoCs.,"optical，power consumption, link, power consumption, optical"

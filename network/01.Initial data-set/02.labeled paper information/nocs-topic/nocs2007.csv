@@ -1,0 +1,40 @@
+title,topic_by_teacher
+On Characterizing Performance of the Cell Broadband Engine Element Interconnect Bus.,"bus, latency, ring, NoC for many-core, performance"
+An Analytical Approach for Dimensioning Mixed Traffic Networks.,"flow control, delay model"
+A Power and Energy Exploration of Network-on-Chip Architectures.,
+The Power of Priority - NoC Based Distributed Cache Coherency.,"cache, last level cache, NoC for memory-->last level cache, noc for memory, distributed"
+A Generic Model for Formally Verifying NoC Communication Architectures - A Case Study.,Verification
+A Hybrid Ring/Mesh Interconnect for Network-on-Chip Using Hierarchical Rings for Global Routing.,"Hierarchical, ring, hybrid, hierarchical, routing, mesh"
+A Low-Latency and Low-Power Hybrid Insertion Methodology for Global Interconnects in VDSM Designs.,"latency, power consumption, link"
+NoC - Network or Chip?,
+NoC Communication Strategies Using Time-to-Digital Conversion.,NoC for many-core
+Enabling Technology for On-Chip Interconnection Networks.,
+NOC-centric Security of Reconfigurable SoC.,"security, reconfigurable, NI"
+QNoC Asynchronous Router with Dynamic Virtual Channel Allocation.,Virtual Channel
+Region-Based Routing - An Efficient Routing Mechanism to Tackle Unreliable Hardware in Network on Chips.,"Routing, fault tolerance"
+NoC-Based FPGA - Architecture and Routing.,"Routing, routing, noc for fpga, NoC for FPGA, architecture"
+Transaction-Based Communication-Centric Debug.,debug
+Implementation and Evaluation of a Dynamically Routed Processor Operand Network.,NoC for many-core
+Towards Open Network-on-Chip Benchmarks.,
+Implications of Rent's Rule for NoC Design and Its Fault-Tolerance.," Fault Tolerance, router design"
+Trade-offs in the Configuration of a Network on Chip for Multiple Use-Cases.,"mapping-->static, design space exploration"
+Architecture of the Scalable Communications Core.,cube
+Solutions for Real Chip Implementation Issues of NoC and Their Application to Memory-Centric NoC.,NoC for many-core
+"ASC, a SystemC Extension for Modeling Asynchronous Systems, and Its Application to an Asynchronous NoC.","modeling, asynchronous"
+A Hybrid Analog-Digital Routing Network for NoC Dynamic Routing.,"runtime, routing, hybrid"
+The Impact of Higher Communication Layers on NoC Supported MP-SoCs.,"performance evaluation, NoC for memory-->last level cache"
+Mesh of Tree - Unifying Mesh and MFPGA for Better Device Performances.,"mesh of tree, NoC for FPGA，mesh of tree, noc for fpga, tree, mesh"
+Design Technologies for Networks on Chips.,
+Approaching Ideal NoC Latency with Pre-Configured Routes.,"reconfiguration, routing"
+A Study of NoC Exit Strategies.,flow control
+Reducing Interconnect Cost in NoC through Serialized Asynchronous Links.,links
+Bi-Synchronous FIFO for Synchronous Circuit Communication Well Suited for Network-on-Chip in GALS Architectures.,GALS， buffer
+NoC Design and Implementation in 65nm Technology.,chip implementation
+On the Design of a Photonic Network-on-Chip.,optical
+A New Binomial Mapping and Optimization Algorithm for Reduced-Complexity Mesh-Based On-Chip Network.,NoC for different applications-->bio/medical
+Implementation of a Design-for-Test Architecture for Asynchronous Networks-on-Chip.,Test and diagnosis
+Access Regulation to Hot-Modules in Wormhole NoCs.,"flow control, wormhole"
+Reflections on 10 Years as a Commercial On-Chip Interconnect Provider.,
+"Fast, Accurate and Detailed NoC Simulations.","Emulation and Simulation/Simulator, latency"
+Implementing DSP Algorithms with On-Chip Networks.,NoC for DSP
+Thermal Impacts on NoC Interconnects.,"links, temperature"
